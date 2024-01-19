@@ -1,0 +1,81 @@
+name: CI/CD Pipeline
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Build Docker Image
+        run: |
+          docker build -t raeabbey1/imx-sample:latest .
+        env:
+          DOCKER_BUILDKIT: 1
+
+      - name: Run Application Tests
+        run: |
+          pwd && ls && docker run raeabbey1/imx-sample:latest python -m pytest claims-api/
+        env:
+          DOCKER_BUILDKIT: 1
+
+      - name: Build Helm Chart
+        run: |
+          cd charts/claims-api
+          helm package .
+        env:
+          HELM_HOME: ${{ github.workspace }}/.helm
+
+  merge-to-main:
+    runs-on: ubuntu-latest
+
+    needs: build-and-test
+ #   if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Build Docker Image
+        run: |
+          docker build -t raeabbey1/imx-sample:latest .
+        env:
+          DOCKER_BUILDKIT: 1
+
+      - name: Run Application Tests
+        run: |
+          pwd && ls && docker run raeabbey1/imx-sample:latest python -m pytest claims-api/
+        env:
+          DOCKER_BUILDKIT: 1
+
+      - name: Login to Docker Hub
+        uses: docker/login-action@v1
+        with:
+          username: raeabbey1
+          password: dckr_pat_ns6KPpqj3vxRnc4NUDuuajXoVu8
+      - name: Push Docker Image
+        run: |
+          docker push raeabbey1/imx-sample:latest
+          # Bonus: Push to a version tag
+          docker tag raeabbey1/imx-sample:latest raeabbey1/imx-sample:1.0.0
+          docker push raeabbey1/imx-sample:1.0.0
+
+      - name: Package Helm Chart
+        run: |
+          cd charts/claims-api
+          helm package .
+        env:
+          HELM_HOME: ${{ github.workspace }}/.helm
+
+      - name: Publish Helm Chart
+        uses: helm/chart-releaser-action@v1.6.0
+        with:
+          chart_path: charts/claims-api
+        env:
+          CR_TOKEN: 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

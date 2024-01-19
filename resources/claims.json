@@ -1,0 +1,7002 @@
+[
+  {
+    "id": "e91f21bddb5b0c1751cce775bf1a6b0b",
+    "icd_code": "B350",
+    "claim_date": "2022-03-08",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6fe48435dbe4dcb5b19c8434e435cd43",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-03",
+    "claim_value": "1475.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "33bc6e921f5eaf02e4f4e124fa78f515",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-07",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d93af156259e48c12d5efce6626d1597",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-21",
+    "claim_value": "360.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "206600ca1f8125e8303347849169bc4",
+    "icd_code": "Z711",
+    "claim_date": "2022-03-15",
+    "claim_value": "165.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "6ca52f598ada7adef249f80de445180b",
+    "icd_code": "I10",
+    "claim_date": "2022-02-15",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ea809c16f3dd15d7c1d7ce24133de8d",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "40.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "caf98f4bc2bacc0f1035d09e6c0e1c7a",
+    "icd_code": "F418",
+    "claim_date": "2022-01-07",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6da60f63e60471834f030b9a2384d329",
+    "icd_code": "F321",
+    "claim_date": "2022-01-31",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dfa0c6b3e66dfd2b933e50644937e517",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "48a21c04a7e40b28d55cfbaa671a4ecd",
+    "icd_code": "F331",
+    "claim_date": "2022-02-10",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "cb9eea3ee8d8044e7f09bc1155648510",
+    "icd_code": "Z713",
+    "claim_date": "2022-02-10",
+    "claim_value": "272.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b58b61a6506fd378c8a06a8dfdce8ec0",
+    "icd_code": "L300",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "66942a117a6e5c3efe471bc6acc2c6a6",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-25",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9079f605c577993875112357772ab392",
+    "icd_code": "K149",
+    "claim_date": "2022-01-24",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5d406f120ab3eeabd06077912f3664ce",
+    "icd_code": "R0981",
+    "claim_date": "2022-01-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "80b9aa0a197154573563f52d89e6c54e",
+    "icd_code": "F331",
+    "claim_date": "2022-01-24",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e7cdcd44f760e15c745f5a7eb8be649c",
+    "icd_code": "H66003",
+    "claim_date": "2022-02-28",
+    "claim_value": "168.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e08e76eccbfd7192b5d4045e16b0f453",
+    "icd_code": "Z1331",
+    "claim_date": "2022-03-15",
+    "claim_value": "200.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "a64e4866fee14bf2eda06fb59ce971e1",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-17",
+    "claim_value": "205.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "35b2dff30961d5af77387979bf7dd66b",
+    "icd_code": "R079",
+    "claim_date": "2022-01-24",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fe5af99d444f9e11e44e00bc012737a7",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-25",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "11bd26a8e9b7faabc98ada3a7bb92c04",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9366b5aad31b1ba323541c3a210a7cc",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-16",
+    "claim_value": "100.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "54aa44b67213a3cc9042c535f1b1fe57",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-21",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e57c36d34f8caad183451372a47a40f5",
+    "icd_code": "E1165",
+    "claim_date": "2022-01-18",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "caf4d29ee6cac0aafd438eee8cd56a0b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "215.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "76c449d9bb3690a7fb0d0df8d0cc0dcd",
+    "icd_code": "F39",
+    "claim_date": "2022-01-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "72f127c7086337458fbbd149c9ebde5b",
+    "icd_code": "H1031",
+    "claim_date": "2022-01-03",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "738f7b2f858d551094226a794729d89",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-07",
+    "claim_value": "1180.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "630b17a42ff6b95706d4532b9635cb7c",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-14",
+    "claim_value": "1360.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ab57d647a9f42aa7d9f12db58c9aec2",
+    "icd_code": "I498",
+    "claim_date": "2022-02-14",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ddf26ec92243f0bc58bc9111e7992f7f",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "270.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e9130f2df97e45f198ab54fcb12fa333",
+    "icd_code": "Z1331",
+    "claim_date": "2022-01-27",
+    "claim_value": "278.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "e73431ea28a92312a9b8695a3435706f",
+    "icd_code": "H6123",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c75f23af6a66482ffee6a6f22c2d7752",
+    "icd_code": "F330",
+    "claim_date": "2022-02-11",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "168dd8180d5a6ce814b0869c65a0c77b",
+    "icd_code": "F418",
+    "claim_date": "2022-02-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "57699482e665052694f9b63b960931b7",
+    "icd_code": "Z00110",
+    "claim_date": "2022-02-16",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f94c4ca3361d4535ae5117195efca77d",
+    "icd_code": "Z79899",
+    "claim_date": "2022-01-20",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "beb29864c5ff442b231408778ea82f1",
+    "icd_code": "F331",
+    "claim_date": "2022-01-24",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "65b6c22fa129dd429112013c433d9f8f",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-17",
+    "claim_value": "1245.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "80ec1b05bdbe74cc9c540739a8241250",
+    "icd_code": "H66001",
+    "claim_date": "2022-02-14",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e5601cf9fcae8d2b131b44bd0b886fd7",
+    "icd_code": "J219",
+    "claim_date": "2022-03-16",
+    "claim_value": "235.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d16ea60e42e49fc6b24a667448b75c12",
+    "icd_code": "R079",
+    "claim_date": "2022-01-24",
+    "claim_value": "225.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "65c91182ab2fc4c4ce8f25d4daf22e2a",
+    "icd_code": "L03119",
+    "claim_date": "2022-03-28",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f1ff9df938d3069e7f856be34f618ef9",
+    "icd_code": "J069",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8452a63a346df6891226f07ee0b61224",
+    "icd_code": "Z00110",
+    "claim_date": "2022-01-19",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9b0d42a832e8cb9216e481cf363e6de5",
+    "icd_code": "Z1331",
+    "claim_date": "2022-01-07",
+    "claim_value": "50.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a77a3bc17740edc41cc82dd9c86bed6c",
+    "icd_code": "R051",
+    "claim_date": "2022-03-15",
+    "claim_value": "172.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "c8a5a5e39918fd4a74f345dca46ca687",
+    "icd_code": "L22",
+    "claim_date": "2022-01-17",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3cf1c45e7e6827e8a26882ffdca0dffb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-28",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a9e46ba1cf13207a67373c24c03d1bf3",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "510.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f0333e56d1db88593b33322c7e5508ed",
+    "icd_code": "Z0000",
+    "claim_date": "2022-02-16",
+    "claim_value": "737.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "de39586d5220f36600cdc8c2bce259ab",
+    "icd_code": "J069",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2b20406a3c011effeb686b4c3546d19d",
+    "icd_code": "R300",
+    "claim_date": "2022-01-10",
+    "claim_value": "114.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e5cd08f488c9558b339bcee7a3a38f88",
+    "icd_code": "R0603",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bd1b93d0e58d0cc6d512643cc59c77f8",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-17",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7d4c2588f38c2e842bd2775d22fa3fdb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-25",
+    "claim_value": "270.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d109ca4e5be78ac50ed62cfe62713fe1",
+    "icd_code": "K5901",
+    "claim_date": "2022-01-25",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "32475d1a0f9a90338029d926bd2a8b52",
+    "icd_code": "J069",
+    "claim_date": "2022-01-07",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b99936c9a5b8238cf36f20b1df50564e",
+    "icd_code": "E039",
+    "claim_date": "2022-02-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "83e35f04d462988b11f4889e8f0f3458",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-02",
+    "claim_value": "550.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c400cacd15fab7af88ca4e9ccb1b59a6",
+    "icd_code": "U071",
+    "claim_date": "2022-02-11",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ff6b42fc18b9f48d18841b72a9e4804e",
+    "icd_code": "Z711",
+    "claim_date": "2022-03-16",
+    "claim_value": "272.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ba21b7961991283425202f9f32023df8",
+    "icd_code": "L600",
+    "claim_date": "2022-02-04",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7b02550c05bbc7e61049dc71fb75526a",
+    "icd_code": "Z00110",
+    "claim_date": "2022-01-03",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8d8413a5814897caf82f4fab2bfd057d",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-28",
+    "claim_value": "100.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "235e7f484b588bee096a37b84649cf9b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1de8841bf557c9f703f1700e2f31a686",
+    "icd_code": "H00015",
+    "claim_date": "2022-01-07",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bab4506e165ede16b282492ed19c268f",
+    "icd_code": "M810",
+    "claim_date": "2022-02-17",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7445533f705aa62f2e3d3e19a9cfaec3",
+    "icd_code": "F331",
+    "claim_date": "2022-03-16",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4db3becc706fb2d3a6c68f7f9d954a7",
+    "icd_code": "L22",
+    "claim_date": "2022-01-03",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "695559c6ac9d96884378d009301e23d5",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-08",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8a4a61927e06fefe62d9f38260670138",
+    "icd_code": "H66003",
+    "claim_date": "2022-02-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "32389787fe41cf9b6ae88f6be13a9ca2",
+    "icd_code": "Z87820",
+    "claim_date": "2022-03-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2b55796c8a2a5103d06f3848b4f141e2",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-07",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "55945517434fb1c013045dc8a753fa60",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f890ba4eaf1b79bfb677c9777f146cd6",
+    "icd_code": "M5412",
+    "claim_date": "2022-02-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4e54e675712ae34296a8d5f7d3fce182",
+    "icd_code": "F4010",
+    "claim_date": "2022-03-23",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "39b78e2560cf170c5f5ed6b762c5a576",
+    "icd_code": "R102",
+    "claim_date": "2022-01-21",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e5d469e75686f86062b6c8f78277cde",
+    "icd_code": "E1165",
+    "claim_date": "2022-02-03",
+    "claim_value": "316.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "866801231facd9e3265bbbe57e595503",
+    "icd_code": "K0889",
+    "claim_date": "2022-01-28",
+    "claim_value": "272.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "24d69657e117555b933bebfe1e7ebfe2",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-07",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f67759e4fdff829c3da9eb1b4b79e047",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d14a9b4851dead008b8920900ed53c11",
+    "icd_code": "H1031",
+    "claim_date": "2022-01-17",
+    "claim_value": "139.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "52fe4b04be779976e5e994edbcfc006a",
+    "icd_code": "K253",
+    "claim_date": "2022-03-15",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b614460fb6a7c8b15ae046d70bd2e151",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "347.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3e30f10587ff6c41667b8a4297281478",
+    "icd_code": "F419",
+    "claim_date": "2022-03-15",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bf32e023eb725c8bc59b3b33cb23e5d1",
+    "icd_code": "M25561",
+    "claim_date": "2022-03-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "cf88d11325c99464ccfc92aee7ae12a6",
+    "icd_code": "M6530",
+    "claim_date": "2022-01-26",
+    "claim_value": "228.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d7588445b1576ef71fd6234a8dbfaaed",
+    "icd_code": "R5383",
+    "claim_date": "2022-02-15",
+    "claim_value": "272.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f8f329bf8193b52b35a78425854e599d",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-18",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e879410b9dcc3a128209604c915ce34a",
+    "icd_code": "F4310",
+    "claim_date": "2022-03-23",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "af8deb8fb23e94486d2b53843348265a",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-13",
+    "claim_value": "1360.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "35be43507960f608fc127bd6113e8bdd",
+    "icd_code": "K5900",
+    "claim_date": "2022-02-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7d4208bd9ca93ae9b3a71c7bb0d38674",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-03",
+    "claim_value": "1295.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4b9ad4adb87223c6c09bf07ef8cadb0",
+    "icd_code": "J0190",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4b110c6a3c85a93bef1c811b0a2f6329",
+    "icd_code": "F331",
+    "claim_date": "2022-02-16",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e513e4c098b2d8ed0928e31ce8c3e35d",
+    "icd_code": "J309",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e7707ab694b899b1d1547b1350986d97",
+    "icd_code": "Z79899",
+    "claim_date": "2022-02-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c67a315ebb62f9b15d10cb99a96a1800",
+    "icd_code": "J449",
+    "claim_date": "2022-01-07",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b2d320c84a53e58edf3c6185d17f827d",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-21",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fc035c23e4ebb8a488a39146d33a2755",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-12",
+    "claim_value": "164.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "548554c867ee592d5aca1ffa4c386932",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-21",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a171fc43a7d92e4a51b90a7d2fdae652",
+    "icd_code": "I10",
+    "claim_date": "2022-03-16",
+    "claim_value": "228.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3976c7b51b1297fad2a26a156d16b75",
+    "icd_code": "J040",
+    "claim_date": "2022-01-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "68a68223b33329c5b5f200b3ddf870fd",
+    "icd_code": "I4891",
+    "claim_date": "2022-02-17",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "12461918d804cb24b73771f89e76376f",
+    "icd_code": "M25562",
+    "claim_date": "2022-02-16",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fbdb9015460e00239e70dac58f376ce7",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-02",
+    "claim_value": "410.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a46ae446a30768b58bce2bca2203fa4d",
+    "icd_code": "R062",
+    "claim_date": "2022-01-19",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e3c15a0a67370efac0e10e397e89e48c",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e2dcb06843c11a9fe8f641b0c2db7877",
+    "icd_code": "F331",
+    "claim_date": "2022-03-07",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "33c0d574ccf788266a617a4695241e81",
+    "icd_code": "R161",
+    "claim_date": "2022-01-19",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "89d96abec5b7f6f309c57e79b8b82088",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-16",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2813fb49d59ebbfdc247a658dc188f23",
+    "icd_code": "R05",
+    "claim_date": "2022-02-03",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8ec6be8e59fc2d040a6a957d159de416",
+    "icd_code": "L03113",
+    "claim_date": "2022-02-11",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e4ab42654ff72951759fdee980a76e26",
+    "icd_code": "B359",
+    "claim_date": "2022-03-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b7d38495eef0dd58514f6c74ecf0e540",
+    "icd_code": "F419",
+    "claim_date": "2022-01-10",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "91826c5d5622a6c0c22505f260a07d15",
+    "icd_code": "G4733",
+    "claim_date": "2022-03-09",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1e21e70f16aca58dddb3f96abf288b8e",
+    "icd_code": "M79604",
+    "claim_date": "2022-02-22",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "85b1a1c0a84dbe540cc11b998ab0760f",
+    "icd_code": "L910",
+    "claim_date": "2022-02-21",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e8a8e7d714a293480965d8b91e7982b3",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4d114895844a32fae99d850151b28395",
+    "icd_code": "M79673",
+    "claim_date": "2022-02-03",
+    "claim_value": "140.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "2d7c3aa996f4c392a238250a07faeeef",
+    "icd_code": "K7010",
+    "claim_date": "2022-03-22",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d614860d3bffce108aa5d617f364db15",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-20",
+    "claim_value": "170.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "303e96c02ee684b5f4c6a7b812964c2d",
+    "icd_code": "I5022",
+    "claim_date": "2022-02-15",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a7a8417aaea79eb6460022e35f920d04",
+    "icd_code": "L738",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ea8268ab6e27a728539a6e7e0765740c",
+    "icd_code": "R161",
+    "claim_date": "2022-01-19",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "436ff5ce7c94cd92af3cfcc1e3e031b4",
+    "icd_code": "J351",
+    "claim_date": "2022-01-13",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bc8c85724d3e66cb669e7dbccd7d7172",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-01",
+    "claim_value": "500.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5142d9906aa76ede2c29048ed3c30a8d",
+    "icd_code": "M7989",
+    "claim_date": "2022-01-13",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3ab1e375595115074e191496cd5a514b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-16",
+    "claim_value": "114.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "661efdf21a66e506382c4647bf5f12da",
+    "icd_code": "H66001",
+    "claim_date": "2022-02-25",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fd677d555f669b98d81c723007baa368",
+    "icd_code": "M25562",
+    "claim_date": "2022-02-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a87366e97ffad5f805a23e1d27ab7d60",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-10",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "10c9c9eccef98ed8e34d20c38134b328",
+    "icd_code": "H66001",
+    "claim_date": "2022-02-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d7684c6c77650d00a17a154e537bf291",
+    "icd_code": "R300",
+    "claim_date": "2022-03-01",
+    "claim_value": "152.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "672b31483a4832b2e02ae529a7b31dae",
+    "icd_code": "E785",
+    "claim_date": "2022-01-26",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5a896dde3632fae37f785691567a4388",
+    "icd_code": "B349",
+    "claim_date": "2022-01-18",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "910e0381c4f907f7eec9d2812fef0444",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-21",
+    "claim_value": "410.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "27fe299cc3f3fe04b483f383e5f3960b",
+    "icd_code": "B354",
+    "claim_date": "2022-01-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "23a5c7744bfb4665e44d869c3876bb2b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6b563f3f632c27047e06493cb2af19f1",
+    "icd_code": "H9209",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "83c7ed96e72feac20abf1ce6ab309e18",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-24",
+    "claim_value": "1010.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "9257934ef7d9ef7f6539c2f9dd962a2a",
+    "icd_code": "K120",
+    "claim_date": "2022-03-17",
+    "claim_value": "272.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b56a9be8add2f8eec93b21464fc2a2c7",
+    "icd_code": "K429",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "144df19cbf2b7af0dd0007eb7d81153e",
+    "icd_code": "F8189",
+    "claim_date": "2022-01-10",
+    "claim_value": "65.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e289b46f953eda7b2d8252d86481072b",
+    "icd_code": "F1120",
+    "claim_date": "2022-02-21",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5a4baedb374af1d3f2517c092e43f6d7",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "1485.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "27cfb2b5da51b84d1ef49f6cd5e2c537",
+    "icd_code": "Z00110",
+    "claim_date": "2022-02-01",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "84db4c3482dc478781d2a031dfa07c36",
+    "icd_code": "J309",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dc56ad171ec9166239a13dd737bc7e32",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-21",
+    "claim_value": "1326.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a76653c37a3dc15f9e449e9658fd051a",
+    "icd_code": "B349",
+    "claim_date": "2022-01-14",
+    "claim_value": "179.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "51319252b6b80e0f8b47dd70b9a88ca6",
+    "icd_code": "F1199",
+    "claim_date": "2022-01-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "91b0537cd1000ea7aa434f7a81d6d35e",
+    "icd_code": "F809",
+    "claim_date": "2022-01-28",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "756d6c326e6005f4ff90d6fdaa0cfff6",
+    "icd_code": "M25511",
+    "claim_date": "2022-03-01",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6fb30dfe222278b3165b5c7ad55748e2",
+    "icd_code": "L309",
+    "claim_date": "2022-03-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "95b75e3f229bcb661c54991f47af1604",
+    "icd_code": "F4329",
+    "claim_date": "2022-02-11",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "733c3788a679ba42ef87478c2db16bd2",
+    "icd_code": "L22",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2f50dd87f4fbb67a6be3cf0e2110935a",
+    "icd_code": "J029",
+    "claim_date": "2022-01-10",
+    "claim_value": "139.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d314284781cb6e9d03ce9435168da4cf",
+    "icd_code": "H66002",
+    "claim_date": "2022-02-25",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b8c8b53300fb7d7ef96ce2b87957aca8",
+    "icd_code": "I10",
+    "claim_date": "2022-03-16",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "15c1dceeb561e2fe332aa85d45775b2d",
+    "icd_code": "F339",
+    "claim_date": "2022-01-20",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dbfcb39f86bdaefbffd1314935b8a795",
+    "icd_code": "J069",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a628cdbb812391e7f6885d98e5905e99",
+    "icd_code": "R21",
+    "claim_date": "2022-03-16",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1347e91b74fe5dd92c809a1793343520",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "37b3dac77b00337fba614b6317d84bb0",
+    "icd_code": "R200",
+    "claim_date": "2022-02-28",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f1c9037f18003514daa0d014b9b9b362",
+    "icd_code": "F800",
+    "claim_date": "2022-01-26",
+    "claim_value": "65.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "58abcce113ca7e9db9ed17e0e271e3b3",
+    "icd_code": "M7989",
+    "claim_date": "2022-02-15",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "192b399902cfdc5591189e375864bf00",
+    "icd_code": "F989",
+    "claim_date": "2022-02-23",
+    "claim_value": "316.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6f33e76bcf811bb9367b0333932c704a",
+    "icd_code": "R42",
+    "claim_date": "2022-02-07",
+    "claim_value": "145.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fe3e8aec8eb61820aea853aefb0f697c",
+    "icd_code": "R059",
+    "claim_date": "2022-02-11",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "24c77d0293320e10257d7519339d089f",
+    "icd_code": "Z0000",
+    "claim_date": "2022-02-08",
+    "claim_value": "970.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1d548cc43a73528d97bc4afb28ce9d18",
+    "icd_code": "H60391",
+    "claim_date": "2022-02-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3c7ceb6c252789e9cebfe8e50a08f15f",
+    "icd_code": "B084",
+    "claim_date": "2022-02-17",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fb874d3503246bf025354f24ee6a58ae",
+    "icd_code": "K219",
+    "claim_date": "2022-03-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bcc66678d3c8e93f7d19fce6ab5e5e9f",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-07",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2f4c3fd1cd2ea84c5a0c3b02a0af895a",
+    "icd_code": "E785",
+    "claim_date": "2022-02-11",
+    "claim_value": "157.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "84491fe3fc2faebc4dfb8d1f9a17a774",
+    "icd_code": "R509",
+    "claim_date": "2022-02-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8b296d3fe4c1aae7c25b4e076dbc7117",
+    "icd_code": "G809",
+    "claim_date": "2022-03-17",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dd2aee233660bf6b36005671b0feb221",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-21",
+    "claim_value": "1245.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8b347e05e6403f228862228bede5db03",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6f6b26a1460840e9a51e740e743e9b48",
+    "icd_code": "J069",
+    "claim_date": "2022-03-23",
+    "claim_value": "210.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "91f01f4bc4e694b6a76fc642509dbfa8",
+    "icd_code": "J069",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "59f24162869d938474edb03008d82cd8",
+    "icd_code": "J029",
+    "claim_date": "2022-02-28",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "92abf7acb8326d4d3abda6fa35cacbba",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "1245.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "57bd1af1382666b6d6a1fbc231a3f825",
+    "icd_code": "H9390",
+    "claim_date": "2022-03-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "658f6525388c402236d8f92e663c4fa0",
+    "icd_code": "F22",
+    "claim_date": "2022-01-31",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3b494b952e85210403b07bc7b2f74881",
+    "icd_code": "B070",
+    "claim_date": "2022-02-10",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "13a375170b5925883b671c6def7e608c",
+    "icd_code": "F418",
+    "claim_date": "2022-02-25",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9476987eeee290e442c84ba8432195b0",
+    "icd_code": "J069",
+    "claim_date": "2022-01-14",
+    "claim_value": "179.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c3ad4c3e5d4f0a883512ecc87127bc66",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-24",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fd5d25558738c9a75f876ac6ce51bc5c",
+    "icd_code": "H66003",
+    "claim_date": "2022-02-07",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a284d4834eaa8e1f66f198c8638209a8",
+    "icd_code": "M7041",
+    "claim_date": "2022-02-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7da4e420a0bbeb6850dc24cdc0760a72",
+    "icd_code": "R1110",
+    "claim_date": "2022-01-07",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "194ecfff2923ea632916a4fe7d95f95e",
+    "icd_code": "Z30011",
+    "claim_date": "2022-03-29",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4c55383917d155b85859fc867e21fb23",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-24",
+    "claim_value": "212.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "483a897f623da4c14933c72c68b6a585",
+    "icd_code": "R140",
+    "claim_date": "2022-03-14",
+    "claim_value": "272.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b94aa49302ce671660988c5d5682d58e",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "437.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c2c341facb995403f6eeb62eda96d5b2",
+    "icd_code": "H6503",
+    "claim_date": "2022-01-03",
+    "claim_value": "56.8",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ca3523199e23e50230bda5b9c4221902",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-24",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2525a31d828b1c2f6dafceaa8879989c",
+    "icd_code": "R030",
+    "claim_date": "2022-03-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c171aaf86a4e01f8c5024c380ecd5dc1",
+    "icd_code": "Z9359",
+    "claim_date": "2022-01-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3191a19fa8b56679daeb7dc38f3008ff",
+    "icd_code": "S90851A",
+    "claim_date": "2022-03-07",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e286e03c921e693a3f6ee8ebd0b02c22",
+    "icd_code": "E1169",
+    "claim_date": "2022-02-01",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1e23ca1a8b95489122b1d80a767f71cf",
+    "icd_code": "R197",
+    "claim_date": "2022-03-17",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2642befa30ff7accf401ad5f8dfb6b12",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "180.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e61e9ff4d3d05c501d686fb444884aba",
+    "icd_code": "R509",
+    "claim_date": "2022-01-04",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e7860bc03ab596b12f363ad9edc88e45",
+    "icd_code": "K219",
+    "claim_date": "2022-02-14",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "87f8c5011b08c40df16b50a78c87718f",
+    "icd_code": "J069",
+    "claim_date": "2022-02-01",
+    "claim_value": "210.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "27be9a889d5faa2525781d1504cf7e6c",
+    "icd_code": "S93401A",
+    "claim_date": "2022-02-03",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f6d8b38a8c690a3fd0f037268a21ffe3",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-17",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "cec3cca9dd268b81498c5ad59858a01d",
+    "icd_code": "J029",
+    "claim_date": "2022-02-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "aa5b3a0777a54d257272c37d61194fe5",
+    "icd_code": "H66003",
+    "claim_date": "2022-03-07",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ec7ec95364a9c8a44acaf5ae70dd69ad",
+    "icd_code": "H66003",
+    "claim_date": "2022-02-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "90885ccf6f388c5522e120b6c5dd76c0",
+    "icd_code": "J0100",
+    "claim_date": "2022-03-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "34d9f00e9b56608599e633a4bb2ee455",
+    "icd_code": "E1140",
+    "claim_date": "2022-03-17",
+    "claim_value": "157.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "77d9965520c7112ec20a8c8c468d3627",
+    "icd_code": "R509",
+    "claim_date": "2022-01-20",
+    "claim_value": "139.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "985880eb63a9be26376a176b072d41c3",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-07",
+    "claim_value": "732.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "7147184a92864c0026b918b34b64f99d",
+    "icd_code": "J210",
+    "claim_date": "2022-02-01",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "13b1fe8a6243e5fa0ec55eb45f034e9e",
+    "icd_code": "J0190",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "422a4f1ca178b346d770ef21cd77fc29",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1221e269e4c41885a59fff00791b39d7",
+    "icd_code": "F4323",
+    "claim_date": "2022-02-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "13afcc2b7441db449f38ff8001d57b11",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1ebbcd07aea6b03e9aaa9db96e673f04",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-13",
+    "claim_value": "367.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6b962835b686edd004874c47850c0e7b",
+    "icd_code": "Z1231",
+    "claim_date": "2022-03-25",
+    "claim_value": "113.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1bfe53141f8ab739b399ab0e8f4410fa",
+    "icd_code": "Z0000",
+    "claim_date": "2022-01-17",
+    "claim_value": "1384.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4a4559a81add5539e0fc2a3472c4406b",
+    "icd_code": "L209",
+    "claim_date": "2022-02-01",
+    "claim_value": "139.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2ef7cd104779504bcbb0737fb91743d3",
+    "icd_code": "M7918",
+    "claim_date": "2022-02-15",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1ac84ff00f910378a3ce7d8070ad9340",
+    "icd_code": "E669",
+    "claim_date": "2022-01-18",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "953e7882187d29abc118fe9b9ef31a85",
+    "icd_code": "J302",
+    "claim_date": "2022-03-21",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1b1d03a965f14229490349203f59d54d",
+    "icd_code": "H66001",
+    "claim_date": "2022-03-07",
+    "claim_value": "108.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7645c8eea568a1438b46c2232fd2bb3e",
+    "icd_code": "Z1331",
+    "claim_date": "2022-02-01",
+    "claim_value": "50.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c723b7dbc5d634a1f7d79298c39e1bc6",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1b32d5c1f1c4195cb729b63227a39c7d",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-25",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4afc88dbe75350f625f5671bef9ee100",
+    "icd_code": "R059",
+    "claim_date": "2022-03-02",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "804b2432846ba57ed8f82e5f31cdaa1",
+    "icd_code": "E785",
+    "claim_date": "2022-02-16",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ec90143aa20b8d9813c8c2d72312d1bb",
+    "icd_code": "F4323",
+    "claim_date": "2022-01-07",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e146efbf79aa558973a7450afd3abcf4",
+    "icd_code": "J069",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dbf6209f2c94592f00d196757b499fa5",
+    "icd_code": "F419",
+    "claim_date": "2022-03-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "67a31d06f2abf1bf1201b6d226b703ab",
+    "icd_code": "L409",
+    "claim_date": "2022-02-23",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "12a25a548c6c4fdc7b6a0e989f3a770e",
+    "icd_code": "J029",
+    "claim_date": "2022-03-28",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dbe855b0904db517e2bb235b69054113",
+    "icd_code": "F419",
+    "claim_date": "2022-02-10",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "743fde1e2a443157a42ef0520e79145c",
+    "icd_code": "R509",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d4b0a44f32b743ddfda60b8b14b77913",
+    "icd_code": "H66001",
+    "claim_date": "2022-03-23",
+    "claim_value": "210.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "60cf9174bd6a72325ed1cc6d9650684c",
+    "icd_code": "E538",
+    "claim_date": "2022-03-29",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8f6f2fb2c3f1ebcc185f8d8675455d85",
+    "icd_code": "K529",
+    "claim_date": "2022-02-16",
+    "claim_value": "387.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a9ba8d1392cf3917ddb5c7d991bf4fb5",
+    "icd_code": "J309",
+    "claim_date": "2022-03-16",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f475fa7a4317b3dd6ed3550cdb08985b",
+    "icd_code": "F902",
+    "claim_date": "2022-02-21",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7825cba93a86053f86bc2f86cbbf34e0",
+    "icd_code": "F424",
+    "claim_date": "2022-01-07",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6dbbd2b38c94e899a90a61cac9eb4b80",
+    "icd_code": "J310",
+    "claim_date": "2022-01-10",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ba9050b8d8e1682e570c803f7972c497",
+    "icd_code": "R269",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9b78ba54ba8aca41b242d6265668368b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-28",
+    "claim_value": "275.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3e12b9aa039f6ae114b7a239ca780d1c",
+    "icd_code": "F332",
+    "claim_date": "2022-01-20",
+    "claim_value": "182.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "36c976806f9c49cf97a47cc441c40c07",
+    "icd_code": "J309",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "95a7bdbe3324a082416e532777b16d20",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8a2faa5c281913e4f8d0fa32eb1c2cfa",
+    "icd_code": "U071",
+    "claim_date": "2022-02-16",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f39992e2048bb1937d293bc7d5da5543",
+    "icd_code": "E785",
+    "claim_date": "2022-03-14",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c58e856ab63dcb339483272150bf24f6",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-07",
+    "claim_value": "510.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e4b8bf2ba5a67125b7bb27aeaa8c4ef1",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-10",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5dc000a2cea49fc79842cd1a7102d1f5",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-26",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1f4f367a7f125c3bc69765199b001902",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-13",
+    "claim_value": "272.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "319ab53078527ab07c2701ddcaa408ff",
+    "icd_code": "R110",
+    "claim_date": "2022-02-07",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6e90d58772894c93b304325ddaa4d8e",
+    "icd_code": "F902",
+    "claim_date": "2022-03-14",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2637059db66e05e42ff94b3222281f84",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "82e1993343017a28e255f586fddbd780",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-02",
+    "claim_value": "235.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b3114c98ceb1147f1d23c30b2491fe6c",
+    "icd_code": "F418",
+    "claim_date": "2022-03-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6a2452c592b7de66789482c707817a8f",
+    "icd_code": "R509",
+    "claim_date": "2022-03-07",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9e329bc7d332e24a80f23d278d26e9aa",
+    "icd_code": "R05",
+    "claim_date": "2022-01-08",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3bcd5b547845f64e49e2c96716515970",
+    "icd_code": "J069",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dda367e54dcfd1add781e643c4823c2c",
+    "icd_code": "E1159",
+    "claim_date": "2022-01-24",
+    "claim_value": "182.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dc3048ded7406f08302f6d70322c663",
+    "icd_code": "M5136",
+    "claim_date": "2022-03-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "934f3eb8e98006a5e18d777f80f48892",
+    "icd_code": "J0100",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "94730aaeb02a6d4a5d2c81affc639512",
+    "icd_code": "M5450",
+    "claim_date": "2022-03-23",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "de32cad4ebb10f5920afccee75f7b359",
+    "icd_code": "F4310",
+    "claim_date": "2022-03-25",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fcf9d7d6d60debfd0cfcc727ce9c4306",
+    "icd_code": "Z0000",
+    "claim_date": "2022-01-21",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "398455c7861c3e309233274bd512e790",
+    "icd_code": "Z111",
+    "claim_date": "2022-03-07",
+    "claim_value": "5.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "77ce2b79f48a8eb1e1f6aa248746fcbd",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-27",
+    "claim_value": "220.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "94145354c677e04d248aae2f33b95be4",
+    "icd_code": "F330",
+    "claim_date": "2022-02-15",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "34444942e5fc0a1b0cea68068ee8918f",
+    "icd_code": "R059",
+    "claim_date": "2022-02-10",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "eb592527c509461b74f2c9ef49f1c77c",
+    "icd_code": "R509",
+    "claim_date": "2022-03-21",
+    "claim_value": "330.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "34d77d1c33a3fb8bf4393ba3d7f8dff5",
+    "icd_code": "E785",
+    "claim_date": "2022-02-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "89dd09ee61f6d23536d7b3fc1db81aec",
+    "icd_code": "U071",
+    "claim_date": "2022-02-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9e6bf3c0d320564439ea3d3070c10ed1",
+    "icd_code": "R05",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1b5594f0d1afaab9ee55a276bfd81d26",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-20",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "73569ee2318c1e74eb7e81e97e5011ef",
+    "icd_code": "U071",
+    "claim_date": "2022-02-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1d27a9ad23ae9f742b454157ac639073",
+    "icd_code": "B084",
+    "claim_date": "2022-01-14",
+    "claim_value": "272.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5847de171f6158afca31e02dfcf38160",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-21",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1c85df94afe7eca6355141a76b35d124",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "578.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3b40bef762191cefaa768a9727ab2683",
+    "icd_code": "J352",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1027c5de41ad940f49f0d7393102a2c5",
+    "icd_code": "S42024A",
+    "claim_date": "2022-02-24",
+    "claim_value": "387.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "db7b01a6d8e70608770a6ad426566c6f",
+    "icd_code": "J309",
+    "claim_date": "2022-01-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "cf015a14372443468d7bc2b62e82fae4",
+    "icd_code": "R509",
+    "claim_date": "2022-01-17",
+    "claim_value": "110.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6dbd328ba2b0c6cdbe8520d16240a7d5",
+    "icd_code": "E1165",
+    "claim_date": "2022-03-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a50cb31a236ec39db35a5861c6ed75ec",
+    "icd_code": "B349",
+    "claim_date": "2022-02-25",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5787096ba70bbfc58e85b5c08732b5a9",
+    "icd_code": "J45901",
+    "claim_date": "2022-03-07",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "78c07f11553b97d7f35b26d1d8173b1d",
+    "icd_code": "R062",
+    "claim_date": "2022-01-24",
+    "claim_value": "310.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "13d381be4bcce7089856bd65554cf1c5",
+    "icd_code": "H3500",
+    "claim_date": "2022-01-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "620ecc0211e08391961cf2c0a1cf9a3c",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-01",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7a2b3442b3e519fd4b93447e5faa52af",
+    "icd_code": "L910",
+    "claim_date": "2022-01-27",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "33eae5e1fcc8aa109b098d80b21de8a0",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-07",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1da07b3a7bff83e8bcfd6f1319c7b280",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-18",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "955a98a4ae844b9a8b096bf0f4aed3a2",
+    "icd_code": "R6251",
+    "claim_date": "2022-01-14",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "32e4bfe8f84826405c6dc896d8564618",
+    "icd_code": "B349",
+    "claim_date": "2022-02-01",
+    "claim_value": "315.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6564170b4b14466f392554301bbdd1cf",
+    "icd_code": "R918",
+    "claim_date": "2022-03-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4a50f512340b4dbf88d0d4ed6e67e1a7",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "290.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "24dbad9ec70a4c818b729c3499f6ad31",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-26",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ba02d3e8bbdc6de85e0a5c6882b551b3",
+    "icd_code": "F10230",
+    "claim_date": "2022-01-12",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "88b24dfb415575b83e88cb84f7df5f83",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "770.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9abc21e8ab69235e78e118fc1ffb8410",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-21",
+    "claim_value": "385.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "55eabb9442e4e13cf92c424bc40f56f1",
+    "icd_code": "Z2821",
+    "claim_date": "2022-01-25",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "232ce2e2411aa041e47f40a53d2694ae",
+    "icd_code": "F331",
+    "claim_date": "2022-02-14",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "727fd419b007cb06804ce96403349fc",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1fba27f9d036b78fb83ced906bf818f5",
+    "icd_code": "R300",
+    "claim_date": "2022-01-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "499602e666385772a604e75eb2bd7981",
+    "icd_code": "H66001",
+    "claim_date": "2022-02-28",
+    "claim_value": "168.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "645d7c9ac6b466426578317fc0aedfe3",
+    "icd_code": "K219",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2b3e2a5cbaf000212c0882876039a52d",
+    "icd_code": "J069",
+    "claim_date": "2022-01-10",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3d9bb8a1f2559d13b28690f665210852",
+    "icd_code": "Z00110",
+    "claim_date": "2022-03-21",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e41f2fe1b3e262504edfd4d4d2de89af",
+    "icd_code": "F411",
+    "claim_date": "2022-02-11",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7a0cdb041ca191e4cea2dfe546402784",
+    "icd_code": "J069",
+    "claim_date": "2022-03-16",
+    "claim_value": "210.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bf53e2a265ff11c8dfc27cd675ae4e45",
+    "icd_code": "J40",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7f9d13b54efd53d2171417ef05740ce7",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b14054de84efe230164bcd432c685699",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "1055.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "cb38b23647351f04c2bbf83d3ff290f6",
+    "icd_code": "S93401D",
+    "claim_date": "2022-02-03",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "29c556b078a1fb5089b97e0b6d58ff0f",
+    "icd_code": "J069",
+    "claim_date": "2022-01-18",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b107e839d57e2b1cf9de0003277fc54d",
+    "icd_code": "J309",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2ac4901ec35baa416461bf8959c554df",
+    "icd_code": "R509",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f02b44cf874969c21dce9d5d4ab8a407",
+    "icd_code": "M5450",
+    "claim_date": "2022-02-10",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6698458dde1e3480a74ff6f89a03327f",
+    "icd_code": "J219",
+    "claim_date": "2022-02-15",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4d990606afae64d9c9ca118c0735e715",
+    "icd_code": "M7989",
+    "claim_date": "2022-01-19",
+    "claim_value": "228.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7573e258e4bdab3bf5447c01e90eab30",
+    "icd_code": "Z20828",
+    "claim_date": "2022-01-20",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4f0d346d6a263d8046002350b1aa9ae2",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-23",
+    "claim_value": "1060.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "86adbf648fadd95774b3c06e99329f05",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-01",
+    "claim_value": "40.01",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "79c8bcc2b9be5660e3b5ccacb69653e",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-08",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "deaf25d2f240bc7e0cbd8d7f26ccf0c4",
+    "icd_code": "Z0000",
+    "claim_date": "2022-01-24",
+    "claim_value": "157.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4c0f6ce3d05d172d1752e3c1458c4fcb",
+    "icd_code": "F419",
+    "claim_date": "2022-01-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "20518d1d9f4c34505274d20f6ef133d6",
+    "icd_code": "H6503",
+    "claim_date": "2022-03-16",
+    "claim_value": "545.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "66075114efdbefe2c2b1634b427ac0e3",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fe622a4a4b7d7f1df89659e855689695",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-04",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "df9b568383ce133105e71f22bd99d6eb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b4c6deac5b5aec4a2fdbdaf7136970a2",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-02",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ac37fdda7c05e3066c634bc47e78503",
+    "icd_code": "I10",
+    "claim_date": "2022-03-30",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7f68a77e532ed78eb376b788f455a846",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-16",
+    "claim_value": "155.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "a3276fcb7fab9daece74219f8d5a203f",
+    "icd_code": "B86",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f255748182ddc35f023119c0abee2ca9",
+    "icd_code": "J029",
+    "claim_date": "2022-01-03",
+    "claim_value": "139.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "414875160e488276ade7e820f1c68615",
+    "icd_code": "R7303",
+    "claim_date": "2022-01-13",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2c19c24bee34c8aa48331d5d5d3fb588",
+    "icd_code": "J309",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "eb0984e52ab187303c84b65f68c9683c",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-07",
+    "claim_value": "40.01",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "c273c355a1cd6d660036dce56a88f279",
+    "icd_code": "F330",
+    "claim_date": "2022-01-14",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "966576031b80bc697831562090564ae7",
+    "icd_code": "F410",
+    "claim_date": "2022-02-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8f648867bf3c8f82e5835b93eb943470",
+    "icd_code": "E785",
+    "claim_date": "2022-01-19",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a926556f6b1446663e358e284bc0adeb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "150.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f9d6c00ddd240dc7b08da5c9fdb3063d",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-20",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "eafa0d19f4cdd1ad9c6c41fec7a3cd3b",
+    "icd_code": "H66003",
+    "claim_date": "2022-01-10",
+    "claim_value": "56.8",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7776828b503c349f66a5660f848c5cb8",
+    "icd_code": "M25532",
+    "claim_date": "2022-02-18",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "70bb7e5c52c1675c88888349320c2c0b",
+    "icd_code": "J351",
+    "claim_date": "2022-03-23",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bd0f4134f393f460f98bd988911ee184",
+    "icd_code": "F330",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d8d4955389883f868d4a2bbbf47cd47",
+    "icd_code": "R4189",
+    "claim_date": "2022-03-16",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "425ac815d188d022713b5042c8ab4ddc",
+    "icd_code": "S0101XA",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "67aafc49eb83e104088d51567ac652d7",
+    "icd_code": "R509",
+    "claim_date": "2022-02-17",
+    "claim_value": "210.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "313bcc021419d34e61d66113d1a922d8",
+    "icd_code": "B182",
+    "claim_date": "2022-03-02",
+    "claim_value": "180.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b504de5b0c3d981cb5d89cb1e7f3e4a0",
+    "icd_code": "Z713",
+    "claim_date": "2022-02-03",
+    "claim_value": "228.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "993b8db8e7c46fdc78554e1a148d7e50",
+    "icd_code": "R05",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a471bd386d3de452c4fae4be91292364",
+    "icd_code": "R059",
+    "claim_date": "2022-02-14",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "74737953bfc26bfadde6db3b6a3d35c3",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "87d8507b12b2a3e7d22aa92e8e63ac6c",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-21",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1415fd12944a77b1ebbd1d832e19b814",
+    "icd_code": "J029",
+    "claim_date": "2022-01-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d54dbc2135f4a2140fc0d2fa245c689b",
+    "icd_code": "K760",
+    "claim_date": "2022-02-21",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4fa85691812b76aee3d08609f36b7eea",
+    "icd_code": "R5383",
+    "claim_date": "2022-02-15",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3adaccd60e94fa187084ed28ec8de09a",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "300.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fa65e5d94ad5b95a62ee387c9e32baf5",
+    "icd_code": "U071",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ab3389784bf2f060dd7996771884a74d",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-28",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "25327da48dd416106c572af059117572",
+    "icd_code": "R1110",
+    "claim_date": "2022-02-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "81d464a68aa523cb4d6a8741c4dd170e",
+    "icd_code": "R509",
+    "claim_date": "2022-01-10",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d263bb46f139b9a7cc6259f52e125dfb",
+    "icd_code": "H6501",
+    "claim_date": "2022-03-28",
+    "claim_value": "258.35",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c6dec219d8f007fe842e49fa5b6be92c",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a80670618cd95c0a31c57b1d9a9f863a",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "13b0d5340614abf4751583fd919531fd",
+    "icd_code": "F331",
+    "claim_date": "2022-01-31",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "512b356d0c479d7d1f7c3a614e1effa2",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "40.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "59bc047e103916946b57dc965263fbee",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-18",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "808be70aa151e4c9b596986e316ed63b",
+    "icd_code": "R300",
+    "claim_date": "2022-01-18",
+    "claim_value": "114.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "60ec18ef8f529e12216dd0aac08e1989",
+    "icd_code": "L219",
+    "claim_date": "2022-01-07",
+    "claim_value": "564.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "147645c97de5ea752bbe6d6a2fb678b1",
+    "icd_code": "G43109",
+    "claim_date": "2022-03-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "399fb27467a925789aa0143a6413bb4",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "460.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5728228a1cc92b2c4fb55c8a46afcac3",
+    "icd_code": "L700",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e4e749420c2ad2f05011631d9abdbbf7",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4c074477ca745364dba7be3b37e67aef",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "565.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d9b7e7299c49aca50ba7aba9da30ac5c",
+    "icd_code": "H6692",
+    "claim_date": "2022-02-07",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "be128d976faa7b8815ea58892e52ce8f",
+    "icd_code": "F259",
+    "claim_date": "2022-02-15",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f842d7c211257243c114f289c8c97acd",
+    "icd_code": "F419",
+    "claim_date": "2022-02-18",
+    "claim_value": "272.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dcff954de19b9c7b9c3cfe8ce469756c",
+    "icd_code": "M79641",
+    "claim_date": "2022-03-02",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "281584a0d8f9af32d92487a006d52f38",
+    "icd_code": "J069",
+    "claim_date": "2022-01-10",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a3351beebba29d6585c3bd771d7ebf69",
+    "icd_code": "K529",
+    "claim_date": "2022-03-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3b998506402369ea951c1703a01b311f",
+    "icd_code": "R519",
+    "claim_date": "2022-02-18",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2c198734364b2aae52e812bc861144ff",
+    "icd_code": "N760",
+    "claim_date": "2022-03-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "20e9d7883f55da516a4505b293e85809",
+    "icd_code": "H6122",
+    "claim_date": "2022-03-25",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e34803b6d9defcd2201a464436e1ebbd",
+    "icd_code": "R911",
+    "claim_date": "2022-02-03",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b434c5746e3ec4efca701a7a95c9cf1d",
+    "icd_code": "E663",
+    "claim_date": "2022-03-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4c1bd78f6843d9339bc4ba0b3ae2fafe",
+    "icd_code": "E1165",
+    "claim_date": "2022-03-01",
+    "claim_value": "113.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6d54c703cb2f92e0b7a41dd19f5700a3",
+    "icd_code": "N814",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fef6dbef28411d28c5d518e105fd1cad",
+    "icd_code": "F90",
+    "claim_date": "2022-03-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a238a10f55ab8e14dcbf36e70f9add1b",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "40.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b409fa7836f6fcaa8eb1b9e6bf30c3",
+    "icd_code": "J309",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8b38454c7bbdef8040efdba935367217",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "612.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8dcad892ce0761d3a936afdc57066446",
+    "icd_code": "J069",
+    "claim_date": "2022-01-20",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a93f8aad94563da5fb3d9c4fbfa6e120",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-21",
+    "claim_value": "460.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a3ddca00d3097fbd9d154cec6d037336",
+    "icd_code": "R29898",
+    "claim_date": "2022-01-20",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4f15fe122dd9a77180db04232ebb19a7",
+    "icd_code": "R609",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "62965ccebb6590b853cd625fa4d84798",
+    "icd_code": "F418",
+    "claim_date": "2022-01-17",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9a7e6d128e2f349147ea87274770deb5",
+    "icd_code": "M5030",
+    "claim_date": "2022-01-12",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fcb026c84b09a1cfc96202fe6eafddd3",
+    "icd_code": "F339",
+    "claim_date": "2022-01-07",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3576d3329242d47807d1d74c5267aff3",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-01",
+    "claim_value": "100.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "267ef480b41e95e63fd5af4ff1fa4382",
+    "icd_code": "I10",
+    "claim_date": "2022-02-10",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "afd18e9778c99e832bbae379cb1e96ec",
+    "icd_code": "R109",
+    "claim_date": "2022-03-07",
+    "claim_value": "95.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8edc69882d02ba4c5f0e47f4101c40ce",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-12",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "71837bafb56bdbc3a93eafa18c1379c1",
+    "icd_code": "R229",
+    "claim_date": "2022-02-11",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "31214b1459dc6ef87b91b436233a87dd",
+    "icd_code": "Z0000",
+    "claim_date": "2022-02-28",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7531614cf3d06ffd51bb3d29905c1ede",
+    "icd_code": "F1120",
+    "claim_date": "2022-03-29",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9364887cbf9bd2cb3158a1f9f4862422",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "1475.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "92579bc13a55d5936fd0624d4ce6784e",
+    "icd_code": "H60311",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7d1533aa627fbdb1d0a521cbe3fa9766",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-08",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a3696d309e79a964e331c946bd7436dc",
+    "icd_code": "K921",
+    "claim_date": "2022-01-18",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8c46201877632507869ba8c07304cf33",
+    "icd_code": "J45998",
+    "claim_date": "2022-02-17",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1a0e261e8a907c1fef308c313174e1bb",
+    "icd_code": "Z1159",
+    "claim_date": "2022-01-21",
+    "claim_value": "101.1",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "60de078bcf5ff90cd422b185c2ddf3fe",
+    "icd_code": "Z00110",
+    "claim_date": "2022-01-13",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6e830bdf213051a7d97b9fa048c91c4a",
+    "icd_code": "E291",
+    "claim_date": "2022-01-07",
+    "claim_value": "272.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "be90e7f48dbea490a310bb143870b6c",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-28",
+    "claim_value": "315.05",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1744c6ff166298f78b0b511a43a7caef",
+    "icd_code": "B349",
+    "claim_date": "2022-02-02",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ef5d72415276dde84fc4f5e9495e1d28",
+    "icd_code": "L219",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6789e89832285a4cfacaaf937a975314",
+    "icd_code": "H1031",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "47c620d38e683161010668dd476f400c",
+    "icd_code": "Z1159",
+    "claim_date": "2022-01-21",
+    "claim_value": "26.1",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b48f2150914a401ec024e5e52bbc0480",
+    "icd_code": "R220",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6502dc5aa606600934046ce3635fa679",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-23",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "29c2feef0a2e145bd86b44b9571e9678",
+    "icd_code": "J4540",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "15db1a215185dbbfa63b41cdff941d63",
+    "icd_code": "F819",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d75f271d7fe95a9cf805c0728d7f034",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-16",
+    "claim_value": "100.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ed79a2dc5a31a9556db0d753d31fe01b",
+    "icd_code": "G4733",
+    "claim_date": "2022-02-16",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "450b2ddd59c7625a5f8bc9e683064f03",
+    "icd_code": "F320",
+    "claim_date": "2022-01-24",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9413d388a4e36434e053d44229f72001",
+    "icd_code": "F902",
+    "claim_date": "2022-03-14",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5db29a2356330f8633f1d6701132a4aa",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f2d2e215d5d043e27cee4518739684a9",
+    "icd_code": "R509",
+    "claim_date": "2022-02-11",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ead7d5db7d7818e86c3330642b375410",
+    "icd_code": "Z00110",
+    "claim_date": "2022-03-16",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e8afd129598182578d59c416f5736b7e",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-11",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "63c36f45dfa8ece2e036114a6ea318e5",
+    "icd_code": "Z3042",
+    "claim_date": "2022-03-02",
+    "claim_value": "222.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "33cd34a42d0bcb5a7ef44b63196ea9c0",
+    "icd_code": "F419",
+    "claim_date": "2022-03-30",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d60c21d9544fd0e8e50a5eacd3688363",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-14",
+    "claim_value": "1095.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "744f6f937e1161116bd05412171e0cd0",
+    "icd_code": "M25511",
+    "claim_date": "2022-02-01",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b16ff7d6e25e00d487ef8b97db9e3db1",
+    "icd_code": "E441",
+    "claim_date": "2022-02-10",
+    "claim_value": "280.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "f0c26c18b87a4021925f5a1747b5d83c",
+    "icd_code": "F411",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f62b463377a6b1b5f769d9dc7b4a5308",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "43b097ab3d7c8305e80d98b0ce37928f",
+    "icd_code": "S92909A",
+    "claim_date": "2022-01-24",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "12a9c9dc2e7499a532fc53d0e615e064",
+    "icd_code": "A09",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4bea278931f8152336a3d11d81cf6057",
+    "icd_code": "F4310",
+    "claim_date": "2022-03-25",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a6fb1ff33738d4ccb4df68da628f4b1",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-28",
+    "claim_value": "240.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c3feb83b87eaadc02b4726c58687f5b2",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-15",
+    "claim_value": "57.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "31ac6bab0c2db1175eff9af720fa9cf9",
+    "icd_code": "J0190",
+    "claim_date": "2022-01-07",
+    "claim_value": "160.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8d2ac619c2387d0f225f351329a3929f",
+    "icd_code": "K760",
+    "claim_date": "2022-02-21",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "da2ac48479d56b5acd8e666024001492",
+    "icd_code": "R509",
+    "claim_date": "2022-03-28",
+    "claim_value": "265.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f3f275cb8409e572d808e8abe90b2ae6",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "796e1106187b27e064c5c5bfb9be32fb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7036f956eab475750765ce28fe05df9e",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-28",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "55bdec56902780b8b8c87b4743dc072b",
+    "icd_code": "J309",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d62fd962625d5859863efad83ea56df5",
+    "icd_code": "K219",
+    "claim_date": "2022-03-09",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "788dedb09d17158f6e1c9cca8ba31ba7",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "48ccff7ed195e92a4c38d2a91a2ac8c3",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "40.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a2680523ad2c38d68c87f07f2e2bce51",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "21560e24eba7586359ebb2645a58034c",
+    "icd_code": "H1031",
+    "claim_date": "2022-02-25",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a47682d4fde1259a64d2f7609fb4053",
+    "icd_code": "E119",
+    "claim_date": "2022-02-02",
+    "claim_value": "272.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7b9cd604b7e80ec0d04f8c7c5472fced",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-20",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "cc6fff82a30fc2b927d4b9e0cae8899a",
+    "icd_code": "Z780",
+    "claim_date": "2022-03-19",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6709b38a4c4bdfd3b2e0d63888a1518d",
+    "icd_code": "S46292A",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8e414cc18a859b562b05775e4ba4919e",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-28",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e21c0280832ef595c478b8aaff14ea9b",
+    "icd_code": "Z00110",
+    "claim_date": "2022-03-07",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fb695162e246311da657909931f28598",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "1530.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ee670aef2d9619da3028340e5423d8c4",
+    "icd_code": "F329",
+    "claim_date": "2022-03-25",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3bf89262b79f7588e2d637969b70746b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "1705.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "be0ea50b3067989b6e08b072f80835b7",
+    "icd_code": "F988",
+    "claim_date": "2022-02-01",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d75983c4a87dc078a5c5cc01dc2e6100",
+    "icd_code": "F339",
+    "claim_date": "2022-03-02",
+    "claim_value": "15.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "f3dffb4061f1d8bb41d04460fd49e5ac",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1887c0b7e5ef8dfdb688924f5f09d86c",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-24",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4d28f0d43255e89850e1a46367cfe9f9",
+    "icd_code": "E119",
+    "claim_date": "2022-03-16",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3ff9b499dc12e91a7be082f893a2e1b7",
+    "icd_code": "A530",
+    "claim_date": "2022-02-23",
+    "claim_value": "228.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6d08ac17cb3b01551d135cf7d8211e96",
+    "icd_code": "L03116",
+    "claim_date": "2022-01-26",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b80dbe1a4eefb00a9d8c6649db739a53",
+    "icd_code": "B070",
+    "claim_date": "2022-02-10",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "142d62142316f6f57ccb16c498bf43e3",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "de1d135d18824ec91fa6c6dfedbec72e",
+    "icd_code": "J069",
+    "claim_date": "2022-01-03",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d6219b0330a9da6d0eb724b45aa4d77d",
+    "icd_code": "Z711",
+    "claim_date": "2022-02-24",
+    "claim_value": "140.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "41741fca8e8e31f5ab46bb76f63b83da",
+    "icd_code": "F609",
+    "claim_date": "2022-01-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7a62311a3c019a5dba4e347c7cf5defb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-07",
+    "claim_value": "1280.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "67358bebbbf890451a9032b134abc5e6",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-10",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "469e000b36a49745b541dc36f73ed7c",
+    "icd_code": "H66002",
+    "claim_date": "2022-02-11",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8b6e4a03ca83ee80faaf1f11c41fd89",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "201.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "740e4e8ac1649226b05a391d2ff23e78",
+    "icd_code": "Z00111",
+    "claim_date": "2022-01-24",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f1600e9617e853340198d2f1cbc617c6",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1ec578a19a06157b252cee4937dcaeb0",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d47b77726fa53a23a1846f4133299333",
+    "icd_code": "F909",
+    "claim_date": "2022-03-02",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dd8defc2084db4058e12ae441c24bc99",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-15",
+    "claim_value": "162.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "89ec0e611d556aade74570539fdeae04",
+    "icd_code": "A749",
+    "claim_date": "2022-01-27",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7917c888fdb2728e20256a6ee1830357",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-14",
+    "claim_value": "240.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "175231e524264f1b51b0b33f1e5a8d4d",
+    "icd_code": "Z008",
+    "claim_date": "2022-01-10",
+    "claim_value": "170.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ca5887cb0c50a2feef70318d69c548a8",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-28",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "99903c422d5b46d4401acd42f4578a04",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "300.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "59ad65dcba13fdc42accdf766982991c",
+    "icd_code": "B182",
+    "claim_date": "2022-02-03",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f610d5756c6928f20959d2833b474afe",
+    "icd_code": "Z00110",
+    "claim_date": "2022-03-16",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "31f76dc4e89de6aa5b0025b01ac7320d",
+    "icd_code": "R928",
+    "claim_date": "2022-01-13",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f3aacdd4c3c06ddd37661a9d7193acb6",
+    "icd_code": "J069",
+    "claim_date": "2022-01-10",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "599b4ae2e0035615066e193207868f7e",
+    "icd_code": "H66003",
+    "claim_date": "2022-03-16",
+    "claim_value": "198.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "973634bc4dbc09c29e8fce1f4bcdb4c1",
+    "icd_code": "R471",
+    "claim_date": "2022-02-15",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5b07dfb281c249e7640169b3e3d6fb5b",
+    "icd_code": "H6504",
+    "claim_date": "2022-03-28",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2788b2c76ce7e9fa1b229a64d8ee2ab2",
+    "icd_code": "M542",
+    "claim_date": "2022-02-02",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "46fdba5657b7e9ec77e4838788d4fb2a",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-07",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "68991a960544e799a063e24eef2a6b6d",
+    "icd_code": "R059",
+    "claim_date": "2022-03-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1f0928bd995f422ffcf1406710a7c97a",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-04",
+    "claim_value": "1326.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "68a829c63d19983993d0e994c98b8b23",
+    "icd_code": "R1313",
+    "claim_date": "2022-02-11",
+    "claim_value": "203.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d5c70616f440eebb7c22588150d2685c",
+    "icd_code": "Z00111",
+    "claim_date": "2022-01-18",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ea678fd6a0919d31a4f745c092ff9025",
+    "icd_code": "I10",
+    "claim_date": "2022-01-28",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "af19c808ec9f30c63885322c7c5a0e6f",
+    "icd_code": "J050",
+    "claim_date": "2022-02-18",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "884b31d44b8071c1971c12581ba25c70",
+    "icd_code": "J45998",
+    "claim_date": "2022-01-03",
+    "claim_value": "212.30000000000004",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7f321d6b2408ac5684af413a1389cf",
+    "icd_code": "H66003",
+    "claim_date": "2022-01-21",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d65e1d4050f950d85e6b5d5028646083",
+    "icd_code": "R509",
+    "claim_date": "2022-02-01",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3f4936ca390598c23fb54e1233499a8c",
+    "icd_code": "G4700",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e07c8227da7bb4f78412cea87d3b4175",
+    "icd_code": "Z00110",
+    "claim_date": "2022-03-15",
+    "claim_value": "450.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "6b4b8f8ee9401f9f237401a97f39dec3",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "846.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "c08c240befeab86fb2700ffd8be65728",
+    "icd_code": "E1165",
+    "claim_date": "2022-03-02",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "49c7544de9deefcabd58894758935dad",
+    "icd_code": "Z3A01",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a59aed0dc16cb83907b53c880461d6e5",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-22",
+    "claim_value": "204.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "b3bec931196a518aa2e79bde9234c955",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-07",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f4436b785317ae296f5d7d9e16a2a6e6",
+    "icd_code": "Z01411",
+    "claim_date": "2022-01-13",
+    "claim_value": "192.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1c9f307ffc168e1da215a91649490d88",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-20",
+    "claim_value": "305.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fc867780c490d4fd607b32718ccfb8f8",
+    "icd_code": "H6123",
+    "claim_date": "2022-03-21",
+    "claim_value": "90.25",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3f3739fc2545c2f52789f23674b96a7e",
+    "icd_code": "Z2821",
+    "claim_date": "2022-01-25",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5cd7548e19e17d3c477daad5f7dfba0a",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-13",
+    "claim_value": "240.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "fdc1d2551cdb26e5847c7796ea9e5ef2",
+    "icd_code": "G629",
+    "claim_date": "2022-02-14",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "353b6689f185870bb4ac8b5d6e89f676",
+    "icd_code": "F419",
+    "claim_date": "2022-03-23",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c6bba0f7afbf98a014fc90eaeca4de22",
+    "icd_code": "R519",
+    "claim_date": "2022-02-14",
+    "claim_value": "195.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a473c18255aaf98d311e05d80a18e5",
+    "icd_code": "Z111",
+    "claim_date": "2022-02-11",
+    "claim_value": "156.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1a50c0b1db07660cd16ba15680fa751f",
+    "icd_code": "H66003",
+    "claim_date": "2022-02-01",
+    "claim_value": "168.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2bbf2e78185667eb1e9ec704acb735f8",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "465.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "671280469df7e1011e29d4c6be626a87",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "1475.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d0a3b68307e1c2fb304ef0d40252472a",
+    "icd_code": "Z2821",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c33137f309d64e02546258a8c2babcd6",
+    "icd_code": "Z111",
+    "claim_date": "2022-02-10",
+    "claim_value": "146.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c3b784a4310284553483a19fcd79005e",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-13",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b67491ca618b2a429bb767d1accf982a",
+    "icd_code": "Z111",
+    "claim_date": "2022-03-17",
+    "claim_value": "102.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ff21958179f72759a357455ceebe9bd7",
+    "icd_code": "L0291",
+    "claim_date": "2022-03-19",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bbe1aa1213064093491240a5abd935ab",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "980.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b7e3ef9f904d9b3b3e43dc8e6b47246",
+    "icd_code": "E1165",
+    "claim_date": "2022-02-01",
+    "claim_value": "272.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e4ee560800a14b08737ee47de7039b8f",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-14",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "725df2472d50aace6b78575f8dbf491f",
+    "icd_code": "F322",
+    "claim_date": "2022-01-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "967d080798b30f86d9edd8bebbf0a0cf",
+    "icd_code": "B349",
+    "claim_date": "2022-01-21",
+    "claim_value": "179.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "27b57043e44c5af03ef774d95ed90f02",
+    "icd_code": "Z1321",
+    "claim_date": "2022-03-07",
+    "claim_value": "26.1",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5d2e75d93c2172a3b944003f79587332",
+    "icd_code": "Z00111",
+    "claim_date": "2022-01-18",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6fd76b6c71f4a096768476e68ffb01d1",
+    "icd_code": "A388",
+    "claim_date": "2022-02-01",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "503be88f4f1eea6c9b0cade75f817c29",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-17",
+    "claim_value": "140.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d17316b057ebaff1e19e303c74925f17",
+    "icd_code": "R509",
+    "claim_date": "2022-01-17",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8a4fc4f16a6488687fe7e2e3e091739b",
+    "icd_code": "K1230",
+    "claim_date": "2022-02-04",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fd321878cba333849bc0dc3a391e9bfd",
+    "icd_code": "H60391",
+    "claim_date": "2022-02-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b8909cb85faeab731a40371af7df1e9",
+    "icd_code": "F419",
+    "claim_date": "2022-02-04",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c36fa771a66e7c87489c499e75d19e18",
+    "icd_code": "F418",
+    "claim_date": "2022-01-27",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ba62e995a8aa8e7332bfd149d4b42b9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "409b525a296dadc3c795aab076fc7482",
+    "icd_code": "J029",
+    "claim_date": "2022-03-21",
+    "claim_value": "170.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "867c1180be88de8ebfbe7db9a1b1cad9",
+    "icd_code": "F332",
+    "claim_date": "2022-01-20",
+    "claim_value": "182.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "478d52affb02d7d30693475b2b11d07c",
+    "icd_code": "R509",
+    "claim_date": "2022-02-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "785b311cf6f01f2638157b21940dcb9a",
+    "icd_code": "E119",
+    "claim_date": "2022-03-16",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d0b8eb7b79eb38e2e28d1eb595cf5e1f",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-20",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7c00e8fce809be67bda7ba230e7dc417",
+    "icd_code": "F419",
+    "claim_date": "2022-01-26",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7c42e1f743dbea0c4fbe380883307003",
+    "icd_code": "L509",
+    "claim_date": "2022-01-13",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e64237c8b5c7049eeda65f3c2b5b9008",
+    "icd_code": "R197",
+    "claim_date": "2022-02-21",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ce6ee587b5c2aad3603e88a7ce70e60e",
+    "icd_code": "F331",
+    "claim_date": "2022-02-28",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ed572c78232a5ae15f1c4886af9b3b59",
+    "icd_code": "F988",
+    "claim_date": "2022-02-16",
+    "claim_value": "100.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8d14b88e052c3147000b7e14e3b9f0bf",
+    "icd_code": "F329",
+    "claim_date": "2022-02-23",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "46a344e39283bdd389b2d7758592e9c3",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-21",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5f87e2a280e9990874c66c07ec2c5418",
+    "icd_code": "F411",
+    "claim_date": "2022-03-28",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fd6cf36f3523546faa21869d43a5b390",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-28",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3123878a3b60bfc3d3a141d5c2f8945f",
+    "icd_code": "E0580",
+    "claim_date": "2022-03-07",
+    "claim_value": "205.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b4efbc145cc3a002963f45f68a7eb48b",
+    "icd_code": "R300",
+    "claim_date": "2022-03-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a5485412a41e1eeb74f77791d98c80e3",
+    "icd_code": "Z01818",
+    "claim_date": "2022-02-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f4a65c38bf29d01e28367832cb078b12",
+    "icd_code": "F331",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8b085c2a6d19c4f8761e11471ede8c85",
+    "icd_code": "R079",
+    "claim_date": "2022-03-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2e430eb1aecf966aa792a536f3d3833",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-28",
+    "claim_value": "292.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fa38148f8b700a5a68f057265153be8f",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "270.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "19a9d2ccb73fec5c3652f6b3e11e28ad",
+    "icd_code": "F418",
+    "claim_date": "2022-01-26",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ea11a9a4967c6fefd86e1fed3eb0f6ed",
+    "icd_code": "R109",
+    "claim_date": "2022-01-18",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "42f54fea915a96a0216d518b995db3eb",
+    "icd_code": "Z0000",
+    "claim_date": "2022-01-12",
+    "claim_value": "610.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5ccbae628894aa4a7663a8cdda06cc11",
+    "icd_code": "E039",
+    "claim_date": "2022-02-07",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "642c168c8bf1abb73aa9a370119e7fd7",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-04",
+    "claim_value": "760.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f265444507c39f6bf3a015942ab1697",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9a3e44b1306b475d2ebf6e480c751e75",
+    "icd_code": "E559",
+    "claim_date": "2022-03-14",
+    "claim_value": "225.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ede085e8371b4cb6dc1cbbce70c92087",
+    "icd_code": "R5081",
+    "claim_date": "2022-03-15",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "54e5776eef8a0f64a39ae308d79c803f",
+    "icd_code": "I712",
+    "claim_date": "2022-02-18",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "58f88713e470a169fa9fc534768fd7a4",
+    "icd_code": "F424",
+    "claim_date": "2022-01-10",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a23ff73eb27dc4548bf18bfa73118046",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-02",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "72f79bf79600263448fa048c1a2d70bd",
+    "icd_code": "E119",
+    "claim_date": "2022-02-14",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5f53e58db51d23dcc6abcc146ea8fc00",
+    "icd_code": "F5101",
+    "claim_date": "2022-03-22",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b60e3900f0a97b220d83fa1fd71402db",
+    "icd_code": "F902",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9c89bc87dc76709f28b80f28ed65f805",
+    "icd_code": "H9202",
+    "claim_date": "2022-02-25",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "87c0486e9babdcca563d5ec36d6a8103",
+    "icd_code": "N926",
+    "claim_date": "2022-02-11",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e427b0c33b8df1581c69f9b9ec276ce",
+    "icd_code": "Z113",
+    "claim_date": "2022-03-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a087eef9a15fb75e623b1b14896c6d5c",
+    "icd_code": "H3500",
+    "claim_date": "2022-01-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8ce8ec52410673d93322ee7c47ce86d7",
+    "icd_code": "R739",
+    "claim_date": "2022-02-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9c0a254e97a1953a5bef91a47fb87ffe",
+    "icd_code": "I10",
+    "claim_date": "2022-02-01",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a12ad8262a7c1ba8efab761c8aefe4d",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "40.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b7569217bd0f5ef22a2f3b514e168622",
+    "icd_code": "F4310",
+    "claim_date": "2022-03-29",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2d1b2247ca8405961e7d2714e08425bc",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-24",
+    "claim_value": "113.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "32a7b8ab145b826782f0aa2c122438d7",
+    "icd_code": "E876",
+    "claim_date": "2022-02-01",
+    "claim_value": "272.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e3d5681bc5035f6b57500d4497f2ac58",
+    "icd_code": "N926",
+    "claim_date": "2022-03-30",
+    "claim_value": "247.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4a6ef9a52d885b78f2258f9775ebd5f7",
+    "icd_code": "F419",
+    "claim_date": "2022-02-14",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "95c51fa35dc2a2df1e6a086a19a61576",
+    "icd_code": "H6593",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "46d9a769417753c0f22214d71bdd39d3",
+    "icd_code": "Z00110",
+    "claim_date": "2022-01-05",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "967d728a346f0ed1e57a8d2145f8d233",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-24",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3e32ac099a21f5a15896798e3e5e039a",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-03",
+    "claim_value": "57.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "8e09f3b695d135b670331585ecdfeb21",
+    "icd_code": "F419",
+    "claim_date": "2022-02-10",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3bf9fe20075509edf81f2fb5658bae91",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ebcaa7c20b075963951d7dbe3f67694c",
+    "icd_code": "M25559",
+    "claim_date": "2022-03-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "61d0943f41fb9cc60a78f5cc793bbd9a",
+    "icd_code": "B349",
+    "claim_date": "2022-01-21",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c9f37811647de3edd007536d05364c84",
+    "icd_code": "M25511",
+    "claim_date": "2022-03-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1257cb08228bf9656f969f57a6c85a96",
+    "icd_code": "N890",
+    "claim_date": "2022-02-25",
+    "claim_value": "254.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5620cff67c5e79f9b462ada804f936a7",
+    "icd_code": "J111",
+    "claim_date": "2022-03-30",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "63921136dda1204395b4276d9054cf03",
+    "icd_code": "H66006",
+    "claim_date": "2022-02-14",
+    "claim_value": "168.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "935e246a41c366ffb473b11ade490d88",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-07",
+    "claim_value": "1275.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "86fd639aa2fed27ee239569cd8398548",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-20",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7d7b4b352e84b30bd1e1f515d9814fe9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-11",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9d1e9edef82a6c533c9328d959a5a2c2",
+    "icd_code": "K429",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c85c239e4132a9bf8699d352b7192621",
+    "icd_code": "K5900",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e3a68e5b148102d855ea2f93d10a191",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-20",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "529ea1db3cfc5eb74f6c6ffda2f975e1",
+    "icd_code": "Z111",
+    "claim_date": "2022-02-28",
+    "claim_value": "146.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f0b405e1fec80e57a6fa6b8f220f5dd6",
+    "icd_code": "F988",
+    "claim_date": "2022-02-16",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b04ba0b0d6918d2b457e2b69f49ff4f0",
+    "icd_code": "J050",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d010484f2d41b26401fd9c6edc92d35",
+    "icd_code": "J0101",
+    "claim_date": "2022-03-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4bd2895e48b1858bfc0da5df255074ac",
+    "icd_code": "E1165",
+    "claim_date": "2022-02-14",
+    "claim_value": "113.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bfbd88481dbf866d480d87b10a696dc8",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-21",
+    "claim_value": "1530.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7b84a7644ae2e0d4c37f95ea1eabc43d",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-07",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a24ec0ec286849da2f6382accfb3093e",
+    "icd_code": "R1084",
+    "claim_date": "2022-03-29",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b38fdc45bd194a2ffb28c22154e225f5",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-11",
+    "claim_value": "609.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "8ae8a27fa814fec5d070fcad94b51db0",
+    "icd_code": "F840",
+    "claim_date": "2022-01-07",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "af43750b99c9206e46cd73dc7b3b0922",
+    "icd_code": "Z00110",
+    "claim_date": "2022-02-16",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7b62d190274e203185603d8a4fdf9f09",
+    "icd_code": "J219",
+    "claim_date": "2022-03-28",
+    "claim_value": "300.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3c712446273e23236b32f7cc2eaa0058",
+    "icd_code": "L209",
+    "claim_date": "2022-03-02",
+    "claim_value": "140.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "3fd822a9a5f625759e2fc8f01d8ec17e",
+    "icd_code": "J0190",
+    "claim_date": "2022-02-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6fc5ba1ed8b40611609eaf913f151035",
+    "icd_code": "K5900",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e68c525d18d8e9af9809d9e822c87590",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c169de32de3710516a5d5254494b13ae",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "21f0490a1f20ded3301c63b6d29a5dae",
+    "icd_code": "F419",
+    "claim_date": "2022-01-17",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3aada1df3aefc60aa30a4adb920fdbe1",
+    "icd_code": "J069",
+    "claim_date": "2022-02-11",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f88f74363ec8f2f3d383d5c5094066d0",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-02",
+    "claim_value": "770.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f2fd54c2a7039f31bf833d68df08fb8b",
+    "icd_code": "B349",
+    "claim_date": "2022-01-27",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c022838540b666b211dc5215c624b2e",
+    "icd_code": "J029",
+    "claim_date": "2022-01-24",
+    "claim_value": "260.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9a34c8e0dcc55216623adbe99ec49d69",
+    "icd_code": "E785",
+    "claim_date": "2022-03-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "963bc174f6b1b0a9ad32f20ee810a277",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-21",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b13140bf84aa48945522feedd1747dc9",
+    "icd_code": "F330",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2391b09e139eccae4aadf058c5ae8e7d",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-07",
+    "claim_value": "680.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "15f540076fc974c6deaff5a4b1764eba",
+    "icd_code": "J0190",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "71c0b87052627895fef6953b3b4e4c6b",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-21",
+    "claim_value": "163.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6816a919f9b4800d6d469e835d29c30",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-07",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b848b728feb8d6ee4ff7ec7858982bea",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "434c6441d005140c0eea1ee174ce5ab6",
+    "icd_code": "F331",
+    "claim_date": "2022-01-28",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "146f3cb5c14f354f8768ce074b4d891f",
+    "icd_code": "F419",
+    "claim_date": "2022-01-10",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f59d6ec117828e1cc5577b9735e213f",
+    "icd_code": "R21",
+    "claim_date": "2022-01-07",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "986ad0204296be5d65b6f50684f5025d",
+    "icd_code": "Z20822",
+    "claim_date": "2022-02-21",
+    "claim_value": "93.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "dfbeff54635cc5dd9e1b6651da9544da",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-17",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "19005ea5cfc1310338b2240c0e85d679",
+    "icd_code": "R311",
+    "claim_date": "2022-02-11",
+    "claim_value": "144.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "27be071ac76d6ac639a6518d6cbab120",
+    "icd_code": null,
+    "claim_date": "2022-01-14",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1d58005064c1ee3c810813f091fc1470",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-25",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "901a7b95f0bb9e117ffd6d53f5a15ad0",
+    "icd_code": "Z01818",
+    "claim_date": "2022-01-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f886c247748a80808ddabe5210e151be",
+    "icd_code": "B354",
+    "claim_date": "2022-01-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6435ac00a7e8a1282d0a6a6ebfb3bdc1",
+    "icd_code": "H9203",
+    "claim_date": "2022-01-03",
+    "claim_value": "56.8",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4560b828ba7dc250a978c7985a5f57a8",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-14",
+    "claim_value": "360.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6656be334959cdb24d9c0fdf58dcfde9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "27273976f409cd3e1823166684312e83",
+    "icd_code": "F419",
+    "claim_date": "2022-03-07",
+    "claim_value": "170.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4ed969b0ad7d28705da4f3d84fa434dc",
+    "icd_code": "Z113",
+    "claim_date": "2022-01-31",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fafacd59c6ef751a16b1acc788dc0f91",
+    "icd_code": "R509",
+    "claim_date": "2022-01-24",
+    "claim_value": "260.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f1f3651efcf4d9a868d8d9f16e271360",
+    "icd_code": "Z79891",
+    "claim_date": "2022-02-28",
+    "claim_value": "157.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ab807ebc394bb0364ecab4cb389c33ad",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-14",
+    "claim_value": "330.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9b79133d411d5fa3dbbb93a437364eeb",
+    "icd_code": "R509",
+    "claim_date": "2022-01-10",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "900168b09f329d8f8fd1f2c4214c09a8",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "82d420ff55be27243f25299d0a8fb0b4",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-10",
+    "claim_value": "1140.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "af02261e28e3df514f1913310001a056",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6d229f5c6ebafce76054065d6db834be",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6a87ce893aeed6fd807a67b8efbd010b",
+    "icd_code": "R059",
+    "claim_date": "2022-03-30",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9db9765503b8c2e21208eb02d73852eb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5aa8237b6fce746a83b026305f158ecf",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-03",
+    "claim_value": "360.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5edd86c4b316b37da3068f4361f98066",
+    "icd_code": "J45909",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c8a40359f71922ed29b235503405c003",
+    "icd_code": "J309",
+    "claim_date": "2022-02-25",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5d394f9c85ff15322800b5b10abe26d8",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "260.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b821e89a83ff6f73dcf6893039a872bc",
+    "icd_code": "Z98890",
+    "claim_date": "2022-02-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b53dc591583172d792df43d28c78faff",
+    "icd_code": "F320",
+    "claim_date": "2022-02-28",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "94ea587e6b07432e6b996deeaa2791b7",
+    "icd_code": "F4310",
+    "claim_date": "2022-02-10",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9a77641f9d0478390f174ef8b807be94",
+    "icd_code": "M545",
+    "claim_date": "2022-03-15",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c2126918866858d3483caa6cac70f037",
+    "icd_code": "R0981",
+    "claim_date": "2022-01-24",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e3ad3d113dcaaefec10c07aeb9f3b7e3",
+    "icd_code": "R300",
+    "claim_date": "2022-03-07",
+    "claim_value": "155.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1f8cd3bebb57e64d9e8d4520546770e6",
+    "icd_code": "F329",
+    "claim_date": "2022-01-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f29e643096f43d6461edca2044af48c8",
+    "icd_code": "M4854XA",
+    "claim_date": "2022-03-02",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f4fc9298d20d6c62ce687c70295a8b00",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a30319ca74c2974cf86c6b4ab038d5c",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2935b10aa1b5c4dac1ac5cd21766316d",
+    "icd_code": "Z20822",
+    "claim_date": "2022-02-01",
+    "claim_value": "93.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "72ebd3f776376bfffee2822d804108ec",
+    "icd_code": "F840",
+    "claim_date": "2022-02-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e447ce4d740a1f033345ae3f5a0599fe",
+    "icd_code": "U071",
+    "claim_date": "2022-01-18",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fe4657724f6e4cfb8a8d8c3d014d71a",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-07",
+    "claim_value": "1056.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "44a0fbb8fd23cd309a82fb759dd35068",
+    "icd_code": "R509",
+    "claim_date": "2022-03-07",
+    "claim_value": "335.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7e9f950942f46d25746d067afd52d86e",
+    "icd_code": "Z79899",
+    "claim_date": "2022-03-29",
+    "claim_value": "297.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fe8b5b8b28873f260d76f2f21f5a2967",
+    "icd_code": "L570",
+    "claim_date": "2022-03-28",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9ba0b40788b8be48e0e997a9168fffd5",
+    "icd_code": "E11649",
+    "claim_date": "2022-03-28",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1b9229f24045344153fb2667a0ca5ab1",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "668.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "778e9ded68695a707c7aef743dfa3fe2",
+    "icd_code": "E118",
+    "claim_date": "2022-01-27",
+    "claim_value": "157.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4ed4010763854152620c3080fe86e177",
+    "icd_code": "K50011",
+    "claim_date": "2022-01-28",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1436bac98d9455de7bbe74c56b837982",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-21",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ba31f97480be21204593d9c7a4ef52d7",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-21",
+    "claim_value": "292.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "29086c2af6cc67444527c99b4597f1c6",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "40dd610197a2107b6951035d5c07696c",
+    "icd_code": null,
+    "claim_date": "2022-02-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4e5b58a901ff5f5337e181d40c352bf3",
+    "icd_code": "L910",
+    "claim_date": "2022-01-27",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ad5b29baf190ff4d1e4d360f89909102",
+    "icd_code": "H66001",
+    "claim_date": "2022-01-17",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dfcef08e013582302c2dfe18f1814ff8",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-07",
+    "claim_value": "1326.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ffc43247fbb769b0cbb6ec79ed9b89d4",
+    "icd_code": "Z1321",
+    "claim_date": "2022-02-16",
+    "claim_value": "26.1",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7cfed1564adbcb495673b808b73153e6",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-10",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "169426c3cf8234db9f956524ee9ea7f1",
+    "icd_code": "H66001",
+    "claim_date": "2022-02-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3ae5ca168d61af0c00ecfd41c5a6cc31",
+    "icd_code": "R739",
+    "claim_date": "2022-03-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "accaceb171cb6ac6ab513356dc7e9210",
+    "icd_code": "F331",
+    "claim_date": "2022-03-01",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "217702a9222e1b9ab9b51dda3078f252",
+    "icd_code": "F902",
+    "claim_date": "2022-02-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d68dc750c123598707ad3b52bcb0643d",
+    "icd_code": "J309",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "406bcc0f250c498d3b5c2119d543f7f3",
+    "icd_code": "J45998",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7183b69721a5d2ec9e9231e01c6b4cb9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "335.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c46032eea97cd946ced02c3cc790a785",
+    "icd_code": "J0100",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "948cb7c02e7ad5260545f27d37fb159c",
+    "icd_code": "J06",
+    "claim_date": "2022-01-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3c1b89f76a8a2e70bf62434fb65647b3",
+    "icd_code": "J0190",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3e012c34f44b077f9d71f3e1c3abfa27",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-17",
+    "claim_value": "930.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "622aa5de65580cc5cc1fa827546d7212",
+    "icd_code": "B09",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1c685ff5447d46e6747a6323514407eb",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8c14251b653072b9a0a5906a834c3111",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "598dc0e6876bf4ad114341468eee69d8",
+    "icd_code": "F4323",
+    "claim_date": "2022-02-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f11ac02f0f3eecbf8147cdec53bf4378",
+    "icd_code": "Z008",
+    "claim_date": "2022-01-10",
+    "claim_value": "170.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c729e66e7686c8b51e42d077397d655c",
+    "icd_code": "F902",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b6aa83db842465519fdb90a1ba5b05ab",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-13",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a202206358cc537c5f7e526348dd2dd5",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "610.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "eb606d27e81704fa3894641fd9281586",
+    "icd_code": "I10",
+    "claim_date": "2022-03-23",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "4da507463578b0c962dcbe5e139f5872",
+    "icd_code": "F4323",
+    "claim_date": "2022-01-10",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9a93c25e47c77e324fe49f9a6cb3877a",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-17",
+    "claim_value": "245.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b24b0609e286d29b5a775469eb57dbcc",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "feed10254a4b5c3f8477db8ee87ddd74",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-28",
+    "claim_value": "334.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bdf668fca1adfe2365c184208a2e37ed",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-11",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1e91d18ef2af3403ee35066b9c14e13",
+    "icd_code": "J0190",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c7e46db3a6be6ab13db6706149c689f8",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2f788c26827f896eb07a0669da969015",
+    "icd_code": "Z00111",
+    "claim_date": "2022-02-11",
+    "claim_value": "375.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f648a172f957a82505630622f7e002dd",
+    "icd_code": "F17200",
+    "claim_date": "2022-01-31",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d3d02ba27cf942906234b047015ea757",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "410.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "89705af6f700f5be4e0ad0f327698e68",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-14",
+    "claim_value": "150.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6d355389b977e93e6e398ab36f6fbf37",
+    "icd_code": "R339",
+    "claim_date": "2022-02-01",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d45a4342e5b7893e173d13ba0361f524",
+    "icd_code": "U071",
+    "claim_date": "2022-02-25",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bca199616dc90cb5dcf91b35819f7cd3",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f62292db848614a017e7861375e00a98",
+    "icd_code": "Z20828",
+    "claim_date": "2022-01-12",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a43c00d7d4252244f5a850e23600b64f",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "da0351c0e1d639491cb6ac1438c919c4",
+    "icd_code": "Z00110",
+    "claim_date": "2022-01-14",
+    "claim_value": "290.05",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d2d7e91c0034874fdc3c8fb1d9fa2897",
+    "icd_code": "S90451A",
+    "claim_date": "2022-01-10",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1e327d5bcbbff564653c0f4f80e76bfe",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "1255.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5cc1e14919caed9223b5ed89627765bc",
+    "icd_code": "Z20822",
+    "claim_date": "2022-02-02",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b9cf848072b64f426b5ca9e4f8310a9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-07",
+    "claim_value": "280.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ed6e6628633fdb16f987612d43ffe83c",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-02",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4307b3eb18359b4ff2e00234fe1aface",
+    "icd_code": "M25562",
+    "claim_date": "2022-02-22",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "59a2d063c8337bdd1a442240fc630f13",
+    "icd_code": "Z0000",
+    "claim_date": "2022-03-23",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "95d3d7b812b2e78e72ada4fbe8c83801",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-07",
+    "claim_value": "415.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3ab2cdf77ad764bd9c1774b1ac059816",
+    "icd_code": "S61218A",
+    "claim_date": "2022-02-17",
+    "claim_value": "316.19",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d6a6b3a34825b97f5ab08d9b4103a0fd",
+    "icd_code": "M25531",
+    "claim_date": "2022-03-17",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "84687043c6562ebf5fd4a5330a5073ae",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "240.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a69c2b0f798b640ff4f5e750dbe19644",
+    "icd_code": "Z01419",
+    "claim_date": "2022-02-24",
+    "claim_value": "172.15",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "853e46dfec9c03cefb77de996c982154",
+    "icd_code": "H1045",
+    "claim_date": "2022-03-21",
+    "claim_value": "170.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ffc5b3d76e3c7c9dd718aaefec92546d",
+    "icd_code": "Z00111",
+    "claim_date": "2022-03-28",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ef468bab387bcb32a094b874d9936ade",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-04",
+    "claim_value": "205.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "c679fd2f9976e09e6136da24ea9791b2",
+    "icd_code": "R0981",
+    "claim_date": "2022-01-03",
+    "claim_value": "179.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f5c5b888d6b6d7ba59ff500aa0091db5",
+    "icd_code": "J069",
+    "claim_date": "2022-02-10",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "269b3396312783676fc14cef8b521460",
+    "icd_code": "F849",
+    "claim_date": "2022-01-19",
+    "claim_value": "65.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bd3017cc16574ec51668b5072b7cc893",
+    "icd_code": "J050",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "595ba37ea371fddce53b8c7fc67b846c",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-17",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "453f70649abd981a68e442a1007371f4",
+    "icd_code": "F4310",
+    "claim_date": "2022-03-29",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "91a41df6bb87d406d6b58b4aa5768b6b",
+    "icd_code": "B081",
+    "claim_date": "2022-01-10",
+    "claim_value": "160.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b8bfebd0194eefc090a371fdbc2225db",
+    "icd_code": "M25521",
+    "claim_date": "2022-01-19",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "abd5e86e4934e36e08763564f2494329",
+    "icd_code": "R042",
+    "claim_date": "2022-01-13",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e223824f3766141321af033de2a1d71c",
+    "icd_code": "R4189",
+    "claim_date": "2022-01-21",
+    "claim_value": "228.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e0ec6f4f4b561310910b5e65abc84077",
+    "icd_code": "F331",
+    "claim_date": "2022-01-20",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "39667841ab0abf01a14ee0120075b395",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-25",
+    "claim_value": "1050.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f93ab648c26b7fe2fdf9d868a9ad194a",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-01",
+    "claim_value": "40.01",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "65923fd906c5dbf782f673430bfd0613",
+    "icd_code": "F1120",
+    "claim_date": "2022-03-02",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e194f1c5151798cb21edf0435e8d52f1",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fe68dd7eae0c464084817747a7bfbd1b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "700.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "af17a8e08148aedc1b43df80292ad22",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-29",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6c6ae98f01b9667f1192c5fde991126e",
+    "icd_code": "B081",
+    "claim_date": "2022-02-17",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a001ca046e6550e3800dd527d0f01948",
+    "icd_code": "D75838",
+    "claim_date": "2022-03-02",
+    "claim_value": "175.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "9311e9b5965c7136a077206765f50408",
+    "icd_code": "M79672",
+    "claim_date": "2022-03-29",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "583feaf814ba7c1925870ad055d3a98b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-13",
+    "claim_value": "245.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e3d217a7db099b6372269af15387094a",
+    "icd_code": "S61217S",
+    "claim_date": "2022-02-14",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d7f2a99628af0801dd2b645f5058f49a",
+    "icd_code": "Z00111",
+    "claim_date": "2022-02-25",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8e57f05d12bacc8f090a9267928d260",
+    "icd_code": "J069",
+    "claim_date": "2022-02-11",
+    "claim_value": "210.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "355fc6495b825c009ec6e09e8e04b753",
+    "icd_code": "H6123",
+    "claim_date": "2022-02-25",
+    "claim_value": "340.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fc2c5c4700d0f2665a9fb146ef2b23e7",
+    "icd_code": "H66003",
+    "claim_date": "2022-01-03",
+    "claim_value": "415.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8dd0cac8f8d4e6571674476e09921a28",
+    "icd_code": "L03116",
+    "claim_date": "2022-01-17",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8e0141225b940657246d47b7a021998b",
+    "icd_code": "I10",
+    "claim_date": "2022-02-16",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1146cb9f9d7074ffca3626081d8988fd",
+    "icd_code": "R911",
+    "claim_date": "2022-03-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "90bfa6944076448cadb2b94e6929d16f",
+    "icd_code": "J219",
+    "claim_date": "2022-02-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e27cc85dadfec55ed8c6ed80d86260b5",
+    "icd_code": "M25531",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a6751f20162e5298369da314e074fb09",
+    "icd_code": "J069",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9bd80e022f4ee5c9765a671f66996b75",
+    "icd_code": "Z202",
+    "claim_date": "2022-02-16",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "202a37ad5d9584802dd0bd3b7eb395c9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5979edeeec3cf265502c724f9daeb423",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-14",
+    "claim_value": "465.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fcef78ec6d5ea6e21ab96ad72d498699",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-20",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2f5a46236f1a5fe2581d0f2b0f61efd7",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "1e390a0b56731f64b737902c13920043",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-03",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4add30eb5f51013116cfac1e9da31c3e",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-24",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "670170bdd8e7de6a75b7cbf7fd099a2c",
+    "icd_code": "R059",
+    "claim_date": "2022-03-01",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "caebe3b418cb25a09ceccdb37d3f201d",
+    "icd_code": "R509",
+    "claim_date": "2022-03-08",
+    "claim_value": "315.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f0e31ee9d6d81f37c2d7c06dec4a11fb",
+    "icd_code": "M7918",
+    "claim_date": "2022-02-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b284498105ff1d4a85756a2242794bc9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-02",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bc5d47b63b7b435b014325f81aeb25aa",
+    "icd_code": "R519",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b1a23ee7f76d483093c35591a287aed9",
+    "icd_code": "H0012",
+    "claim_date": "2022-02-14",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "4c0fde10d3f15f0d6a7e26d4247a8a97",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-14",
+    "claim_value": "208.01",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "99653a70548997b7e8c65d810380ae03",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-03",
+    "claim_value": "765.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3d842cceaec43b3ef58fa9f336a56181",
+    "icd_code": "R300",
+    "claim_date": "2022-02-16",
+    "claim_value": "144.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "54e2fb4debb30fe5ef39552caa7c2f8b",
+    "icd_code": "R040",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d206fc591fd7e8f6009fa116af842fb3",
+    "icd_code": "H527",
+    "claim_date": "2022-02-03",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "863ccde664d699f1be7000fde7ed572e",
+    "icd_code": "R059",
+    "claim_date": "2022-01-07",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8379575ddd6996066b03da37af6f2dcd",
+    "icd_code": "H66002",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b2c8670c00b64d92a4fdb2b370e10aec",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "98f4a73f96a49d47e579974e67d506dd",
+    "icd_code": "R509",
+    "claim_date": "2022-01-13",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c7147dce54f4347caca54d33c35ff8fd",
+    "icd_code": "G40909",
+    "claim_date": "2022-02-16",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "78a8c750912fd820e2f2e96c78083d1b",
+    "icd_code": "F331",
+    "claim_date": "2022-03-16",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "75102d1f43a41eaa4aefb22e8aa0444f",
+    "icd_code": "I82890",
+    "claim_date": "2022-01-14",
+    "claim_value": "228.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "549a810492a9d0f0147d1f17aa7beace",
+    "icd_code": "F418",
+    "claim_date": "2022-01-27",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b32dd7446f7565ff8b2379151ba37b29",
+    "icd_code": "F902",
+    "claim_date": "2022-02-11",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f40f4fa73f7aedca10d0d195cbd6f76f",
+    "icd_code": "F418",
+    "claim_date": "2022-03-19",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9d9b6b0924c61c67bacdcd57a682c9b5",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-07",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5f8283bf4be7ec82082ce97ba6d9e892",
+    "icd_code": "J029",
+    "claim_date": "2022-01-13",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "74613e3ba76b3d449eab3334022078a",
+    "icd_code": "Z00111",
+    "claim_date": "2022-02-28",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f27baf9e9dc42ceb1f0159b9590d02be",
+    "icd_code": "H6502",
+    "claim_date": "2022-03-08",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8d336183d872ab9655743ca92b620ee4",
+    "icd_code": "H66003",
+    "claim_date": "2022-03-07",
+    "claim_value": "168.3",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "208566f23f89abc32d604755289f2072",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-04",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "5f4ab647490c6b77f0a26126aa4b2a16",
+    "icd_code": "F331",
+    "claim_date": "2022-03-01",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ee4131285e75ea5f73bc0f8f2853cf19",
+    "icd_code": "Z79891",
+    "claim_date": "2022-03-28",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7124fcb04146a22864b357f9eac34780",
+    "icd_code": "J309",
+    "claim_date": "2022-02-17",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8d4969c42019f20bd1048559d5f298dc",
+    "icd_code": "E1165",
+    "claim_date": "2022-02-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e7513b6483ab7e1cbe2de29ffe83d41c",
+    "icd_code": "R05",
+    "claim_date": "2022-01-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "11cc1420fdefc9896650b98c3c748bac",
+    "icd_code": "J069",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "350dd5db592959c83f106c13aeade316",
+    "icd_code": "J301",
+    "claim_date": "2022-01-17",
+    "claim_value": "272.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "90b491cd4586af535bb112f776177555",
+    "icd_code": "F341",
+    "claim_date": "2022-01-26",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "35fd092672c9a5b3dc1b7a52c9c8d877",
+    "icd_code": "G4733",
+    "claim_date": "2022-03-29",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1f154e846518e9bb5359a00151fe1ab3",
+    "icd_code": "R509",
+    "claim_date": "2022-01-24",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7cd3fe48670d3532469c2dec4c97820b",
+    "icd_code": null,
+    "claim_date": "2022-02-25",
+    "claim_value": "285.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3254f999eb2afd3dc203dab2fe8905f",
+    "icd_code": "F900",
+    "claim_date": "2022-03-07",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7e29a4ac2797138ffbc0ae6dfe026ad",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-28",
+    "claim_value": "770.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "84f983ff8886ab7bc88798a154fe619f",
+    "icd_code": "R0781",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e22a33b64fedcbc9128bec0fde8acce4",
+    "icd_code": "J45998",
+    "claim_date": "2022-02-02",
+    "claim_value": "185.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "14fc8862d5d018c43cd06151e268cbe2",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-17",
+    "claim_value": "93.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "50d6ee1fbf1b3e25f1f9021b3f27e854",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-21",
+    "claim_value": "820.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2e7227ec14ba496f397a38665bc4c7f9",
+    "icd_code": "L03213",
+    "claim_date": "2022-02-24",
+    "claim_value": "140.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "becfbbf862fcb0dc1a4e73f660ec8147",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "2302b3e4736b3ab23a101e910db7b072",
+    "icd_code": "F3112",
+    "claim_date": "2022-03-16",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "60ab8fc2eec7545058f29ed116588f3d",
+    "icd_code": "F90",
+    "claim_date": "2022-01-18",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c2e3d00c806856a9d650aea5af77edba",
+    "icd_code": "Z283",
+    "claim_date": "2022-03-02",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e24ac705b0679d0c08db199d6b6d0a1f",
+    "icd_code": "I10",
+    "claim_date": "2022-01-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5d32a45ab477c6555022aef4b43bf38b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-21",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "171f55e5d704ed535690e2b20e93ca1d",
+    "icd_code": "L089",
+    "claim_date": "2022-01-24",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "79f36432dd7d75a1ee8822f1daa1fb67",
+    "icd_code": "R002",
+    "claim_date": "2022-02-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b0d7855b0685fec5c8daaaf859c88f4d",
+    "icd_code": "H6122",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e5f480e406a6e7a4d5bed6abdea72238",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "578.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dc84205e2c683b83dd66692d95264732",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "1417.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "eec65046ad9b5822f328ba68a393c30b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-17",
+    "claim_value": "1280.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a5fdd9cac1c27afdef3f1434f01076df",
+    "icd_code": "B349",
+    "claim_date": "2022-01-19",
+    "claim_value": "254.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "faeaa72eb3fa1344956179973590d4b1",
+    "icd_code": "L700",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3840a3960286b2b20a1cd3408a89d0e7",
+    "icd_code": "M064",
+    "claim_date": "2022-01-10",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "cdbf9347cf3743d94682126bd56da230",
+    "icd_code": "U071",
+    "claim_date": "2022-02-14",
+    "claim_value": "93.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "9726a407a352590f9503f1e4fc9cc8bd",
+    "icd_code": "F4010",
+    "claim_date": "2022-02-15",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b3cc42dd4904d8eee1dbd17f45634225",
+    "icd_code": "Z1231",
+    "claim_date": "2022-03-17",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b3180e0ee439108c66064e6510092192",
+    "icd_code": "F419",
+    "claim_date": "2022-02-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9f9d1971e0c3d69ae54589f4966a7013",
+    "icd_code": "K7011",
+    "claim_date": "2022-03-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c9dc56075f8af6128a43655d23f1caeb",
+    "icd_code": "M5450",
+    "claim_date": "2022-03-25",
+    "claim_value": "320.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2209cdd24e8c88b7e50c217e0178d403",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "40.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bc054aacb0c2e88a6e119962d8e5a9fd",
+    "icd_code": "L442",
+    "claim_date": "2022-01-17",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bcb4c3a531f9be25b46869a02a41d877",
+    "icd_code": "F22",
+    "claim_date": "2022-01-31",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "cdae43b6bce7eed8b5d928af1c50fa1e",
+    "icd_code": "F419",
+    "claim_date": "2022-01-10",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "51ffc2bac39f758584b0c6e019fa74d8",
+    "icd_code": "H66011",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8b33ab18e68a3a8048983f88d8aad5d4",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-27",
+    "claim_value": "93.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "b5561e1d9008a0bb3c8c559582ffceb3",
+    "icd_code": "M25512",
+    "claim_date": "2022-03-08",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5499ead8d68ec9c8964937324cab8080",
+    "icd_code": "R739",
+    "claim_date": "2022-03-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8bff14b6d21a942a5d25bce6b3a05f17",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "247.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9f03a48dc6307a9f871943997c5930ed",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-10",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "669bfbb0ca7f480ba3f61cec196e7401",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-04",
+    "claim_value": "240.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "19fe5fdc9cb9a144ee4b43b590928458",
+    "icd_code": "Z23",
+    "claim_date": "2022-03-28",
+    "claim_value": "460.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "136e42f03b4cfbf3a6f9362d60026167",
+    "icd_code": "F1910",
+    "claim_date": "2022-02-11",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dc5470596977ec5ccc4e1d47b58d3a45",
+    "icd_code": "E782",
+    "claim_date": "2022-02-15",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e32d5a7914a5165b07c72819a5c1ee3e",
+    "icd_code": "B349",
+    "claim_date": "2022-01-24",
+    "claim_value": "430.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dc8fde7b63fd188cde9efc52934f2bbe",
+    "icd_code": "Z3042",
+    "claim_date": "2022-03-02",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d7dc9740bacf484cc0390ec193ad647",
+    "icd_code": "F331",
+    "claim_date": "2022-03-22",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bcf810bf3b53eb1c9e037efa5473a30d",
+    "icd_code": "R7989",
+    "claim_date": "2022-01-21",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6fd7915b46b3ffa20415a574c94a3c20",
+    "icd_code": "Z00110",
+    "claim_date": "2022-03-28",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d4f274581a3a689d959285a3a0f253c0",
+    "icd_code": "J4540",
+    "claim_date": "2022-02-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b8ad466b8dd975a1577bed36de2c2985",
+    "icd_code": "F4310",
+    "claim_date": "2022-03-15",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5159db073dc153fe07401451a4a1d1eb",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-24",
+    "claim_value": "1266.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3bf7ad01c05dce2ab9999b11b7c8c5cd",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a82f3ef8c766529bc331f65483432b9c",
+    "icd_code": "J309",
+    "claim_date": "2022-01-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c08d94f85d4245df6bff53da8036575b",
+    "icd_code": "Z713",
+    "claim_date": "2022-01-26",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d2a88fad232594e44d014a82ea8df063",
+    "icd_code": "R21",
+    "claim_date": "2022-01-20",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9149967f04360a2d2885eb04a35bb842",
+    "icd_code": "I10",
+    "claim_date": "2022-03-24",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "fff001b31701c5c637542d1f266225db",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-17",
+    "claim_value": "150.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "30a9ed1312cb33ec788b55a3b97536b2",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-22",
+    "claim_value": "456.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "78ae2bcc9e09c84b24709b30f6d14998",
+    "icd_code": "J069",
+    "claim_date": "2022-02-14",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d89d23e4d18855d127ae871fa4dd309",
+    "icd_code": "H66002",
+    "claim_date": "2022-01-17",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "9f25c0fa861b955d4bc24700c4f74b97",
+    "icd_code": null,
+    "claim_date": "2022-03-23",
+    "claim_value": "150.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "865a9c73bbbe8e2b4e946231a46c7087",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-17",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "27995655018644ea735b7ab3c138e2a7",
+    "icd_code": "H9203",
+    "claim_date": "2022-02-25",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b98bd8c4011ea36db299bcc0a4fc8a90",
+    "icd_code": "J0390",
+    "claim_date": "2022-01-07",
+    "claim_value": "139.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "77bd5e6ccf0172ada2323fa8cfe6f016",
+    "icd_code": "U071",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a5265407a33c664d2bec04ad8de3311c",
+    "icd_code": "J069",
+    "claim_date": "2022-02-03",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "96a68d9364af7263737b373d7f38825a",
+    "icd_code": "R509",
+    "claim_date": "2022-03-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3c4e4dca311d353a8b4de2fcfbb7dcf",
+    "icd_code": "J069",
+    "claim_date": "2022-02-21",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bf0121b138ad0e029e5f9860f26b64ae",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-25",
+    "claim_value": "465.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "91d99c5287014e5e8e5fcad08fec25fd",
+    "icd_code": "F4310",
+    "claim_date": "2022-01-18",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b43832ac4b857fc8db25bee551fd04c6",
+    "icd_code": "M545",
+    "claim_date": "2022-03-21",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "355b50f04f93988729a98dfad2e8aa07",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-11",
+    "claim_value": "140.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "6e9b2a5709008f64148c904847faabf2",
+    "icd_code": "E119",
+    "claim_date": "2022-02-15",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "edf66354dd3d8fe22b6bccddc88bd923",
+    "icd_code": "I809",
+    "claim_date": "2022-03-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "323db6c3fdf2187f1de3b339f85f546b",
+    "icd_code": "E669",
+    "claim_date": "2022-01-18",
+    "claim_value": "113.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e747f19fbd11517f1ced84a5cea0bf2e",
+    "icd_code": "F319",
+    "claim_date": "2022-03-22",
+    "claim_value": "95.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "9cb1f09d326977cf06218ae4b796f9d3",
+    "icd_code": "Z0000",
+    "claim_date": "2022-02-01",
+    "claim_value": "1384.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "921478a62b4bbf05ae320cf7534ed0",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-14",
+    "claim_value": "542.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "dc1d65bb22b9f80b9c263a6ce4a8c954",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-21",
+    "claim_value": "1290.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f95cff0630bcf2c160ccb8ded11c69bd",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-01",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "24361d24eb769cf54b69b08dc5b8a230",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "14c9a77c8f380a17c75ea2d6984788ac",
+    "icd_code": "Z111",
+    "claim_date": "2022-01-14",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ce371c7f6b9dbd0064af4fc3f5390c64",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-01",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "b90dc6c2ddfdc5d8da982679dbced38f",
+    "icd_code": "J069",
+    "claim_date": "2022-01-03",
+    "claim_value": "105.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a9e6ecbc05e7aab6ea49db6aaa28061c",
+    "icd_code": "U071",
+    "claim_date": "2022-01-24",
+    "claim_value": "140.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "9338550de96b2086816e7bdf4fe35933",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-17",
+    "claim_value": "200.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6e95168e10e077003da067618fc673c8",
+    "icd_code": "K2100",
+    "claim_date": "2022-02-18",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e5a26e7e501ee31979ed222aff7c589b",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "1360.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "a43ce3f56a70262406185cde5ab0fa93",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-25",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d86f83576bcd3410f29ea7992c7c32fa",
+    "icd_code": "L22",
+    "claim_date": "2022-03-16",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f912625f96787b7d32fdd9a8fc585e77",
+    "icd_code": "R059",
+    "claim_date": "2022-02-14",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "e996807b2006b6664c1d07e5de354497",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-13",
+    "claim_value": "40.01",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "9d1e7697ed93906db4ce7a9b0ccc6e28",
+    "icd_code": "Z00110",
+    "claim_date": "2022-03-07",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f432c488bf45e741984d87f713ddfbb9",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-10",
+    "claim_value": "668.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "33a3a0008b487955c87006d30ada9a49",
+    "icd_code": "J069",
+    "claim_date": "2022-01-17",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "62342d1b5b8069230ef7d94eb4576951",
+    "icd_code": "J029",
+    "claim_date": "2022-02-23",
+    "claim_value": "124.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f086362c836aa17a729cc584ccf7c2be",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-11",
+    "claim_value": "40.01",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "85f4727b8d4286d1973647e52dae0d8",
+    "icd_code": "R151",
+    "claim_date": "2022-02-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e205a1f35d48176525196bb8921f93e8",
+    "icd_code": "Z01810",
+    "claim_date": "2022-03-02",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f0e47e3571438386cf25024cf128715e",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-19",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b3bf818bda12cbc8ac225ae91cbfa064",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "432.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "43b80e0c8b0d473d9b8fcf97d394a929",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "be7581cb20714b5bdac3c3ae1744e132",
+    "icd_code": "Z98890",
+    "claim_date": "2022-02-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "72cf2e878a16920ee2f1141b0263131c",
+    "icd_code": "Z3009",
+    "claim_date": "2022-02-15",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "8018cd9f1fa825b42e9aca0bbd4e2bce",
+    "icd_code": "R1031",
+    "claim_date": "2022-03-25",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7d43397c4b1fd6d74e8b0b51751d0ef8",
+    "icd_code": "Z00110",
+    "claim_date": "2022-02-21",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "d7b63205914b437b6ddea06d833b6b7a",
+    "icd_code": "E6601",
+    "claim_date": "2022-02-24",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "82171be2f4451b86ddee66ccb49b224e",
+    "icd_code": "R932",
+    "claim_date": "2022-02-15",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "af9ca5cba8cc3f49d152708d1a8ff30",
+    "icd_code": "M5450",
+    "claim_date": "2022-03-01",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2f259a73d26f3ddc0b21ae327295bbe",
+    "icd_code": "F0781",
+    "claim_date": "2022-01-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ffc40624152e17f41eaf499b25487180",
+    "icd_code": "L209",
+    "claim_date": "2022-01-21",
+    "claim_value": "139.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "74c9e617f5ae1bb5d958b7f32de29c2b",
+    "icd_code": "R7303",
+    "claim_date": "2022-03-23",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "677276e352551bb8abdf6ed118a42d4f",
+    "icd_code": "F4310",
+    "claim_date": "2022-03-17",
+    "claim_value": "115.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "efe8f833481768f8f5f2bf894c5bd8bb",
+    "icd_code": "F424",
+    "claim_date": "2022-01-07",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "e5a804296c2b9f5b575b2202e7eff0f1",
+    "icd_code": "Z20822",
+    "claim_date": "2022-01-20",
+    "claim_value": "93.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "ab9f3d11504a77fc8e1395aa502c418",
+    "icd_code": "J309",
+    "claim_date": "2022-02-08",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "aadec453551cd354914d10bd9c0c9116",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-28",
+    "claim_value": "1441.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ae9cd81af227a8d9cb5c5675d58ce224",
+    "icd_code": "F419",
+    "claim_date": "2022-03-17",
+    "claim_value": "132.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "f5975efa8cf72181119fc412d11bffb7",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-02",
+    "claim_value": "190.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "e1e3e65826f511a35dd50276c4168064",
+    "icd_code": "Z00129",
+    "claim_date": "2022-03-16",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "f60c7863d8497febdc5a04995c9991f7",
+    "icd_code": "R053",
+    "claim_date": "2022-01-24",
+    "claim_value": "340.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "3044259f1172a829b350f6a3d94f1222",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "690f29b8cb7568a3c28af83b500fb956",
+    "icd_code": "F424",
+    "claim_date": "2022-01-10",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "c0700e31b4209f0b7d44d28efa277f9c",
+    "icd_code": "R233",
+    "claim_date": "2022-02-07",
+    "claim_value": "140.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "b1c83036e4320d7e467c3b13f359e652",
+    "icd_code": "R0781",
+    "claim_date": "2022-01-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "ecc1738f0d2c8804183658cf5ff5a472",
+    "icd_code": "F339",
+    "claim_date": "2022-02-24",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "105dda49aa0ef1057b1466ebd54b3536",
+    "icd_code": "Z20828",
+    "claim_date": "2022-01-27",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "7fb8b0bc6fb00d437190e160820b206d",
+    "icd_code": "J069",
+    "claim_date": "2022-02-21",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ffaf9cb652cec7d82ced32516a7cbd94",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-02",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "bbefb7b41919866fa46c5188f413e24f",
+    "icd_code": "J069",
+    "claim_date": "2022-02-28",
+    "claim_value": "140.0",
+    "claim_provider": "1386729481"
+  },
+  {
+    "id": "2fb7b676e4c29477b7d40abb6c5798a2",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-14",
+    "claim_value": "465.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "fc978b6900ba8c7604e15d310651095e",
+    "icd_code": "D649",
+    "claim_date": "2022-02-14",
+    "claim_value": "156.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "388ab94cee2d437e4caf7803917ce18",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-14",
+    "claim_value": "250.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7e7c1c93074f3f78040c28f738d81e1f",
+    "icd_code": "Z00129",
+    "claim_date": "2022-01-03",
+    "claim_value": "251.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6b36ba9a56ae1dc433fcbe6910d02f3e",
+    "icd_code": "F419",
+    "claim_date": "2022-01-26",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "1b338f30be1105d6a2835611df2ea5e3",
+    "icd_code": "H9202",
+    "claim_date": "2022-02-15",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "d629d7950b0d1c5571088bb942f4902d",
+    "icd_code": "H6123",
+    "claim_date": "2022-01-08",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "446eac70e38b1f275354d67faf0ea5df",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-17",
+    "claim_value": "940.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "7fff6d8e86f65e17e2a355986a6102f9",
+    "icd_code": "J069",
+    "claim_date": "2022-01-07",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "c229affb24f540a796b949b7d44c209c",
+    "icd_code": "M5126",
+    "claim_date": "2022-02-03",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "750ba9c3f15e6a129005e90b6e454c36",
+    "icd_code": "F4010",
+    "claim_date": "2022-02-17",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "5dadcb71b6e9924c15e765187a46a2f9",
+    "icd_code": "R509",
+    "claim_date": "2022-03-16",
+    "claim_value": "315.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "22236525709b9b163d2f1342faf88a7d",
+    "icd_code": "Z23",
+    "claim_date": "2022-01-21",
+    "claim_value": "40.01",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "93a87a1b058c4f2515e01eb5a26585f8",
+    "icd_code": "J069",
+    "claim_date": "2022-01-20",
+    "claim_value": "179.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ec5d25178c1e6f2c84885070abf2af01",
+    "icd_code": "I10",
+    "claim_date": "2022-03-01",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "b52aec646010407d7edbe3103eb689db",
+    "icd_code": "F3160",
+    "claim_date": "2022-01-13",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "a57b03e864c2def22594a592aeb81c88",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-11",
+    "claim_value": "225.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "6e7dd00f57b7131afe97132baa07bf8c",
+    "icd_code": "Z00129",
+    "claim_date": "2022-02-14",
+    "claim_value": "1235.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ad4cce3890ca67603bb4bd7bfe757c13",
+    "icd_code": "I10",
+    "claim_date": "2022-01-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3bc8cbfd6e7a633154aca2da8cc88891",
+    "icd_code": "F3112",
+    "claim_date": "2022-03-30",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "dd6a9726cb751c6c1b510f6c9c9922fb",
+    "icd_code": "D508",
+    "claim_date": "2022-01-14",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "ef6a7c17ec85389c479ff28ba20c702e",
+    "icd_code": "J45998",
+    "claim_date": "2022-02-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "cc1807001a20907e6123567ce65b6bf7",
+    "icd_code": "F331",
+    "claim_date": "2022-01-04",
+    "claim_value": "92.03",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "bd5636fe6a39d4952b2902c1b0c83276",
+    "icd_code": "E785",
+    "claim_date": "2022-03-28",
+    "claim_value": "100.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "3f96285abb9f7cc9f1e46d3406932273",
+    "icd_code": "Z23",
+    "claim_date": "2022-02-11",
+    "claim_value": "375.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "89c2e5ff8dcdd05232ef01f79905d7d1",
+    "icd_code": "S82872G",
+    "claim_date": "2022-03-14",
+    "claim_value": "88.0",
+    "claim_provider": "1285044990"
+  },
+  {
+    "id": "2320e83924d11aba40197295172157da",
+    "icd_code": "H65196",
+    "claim_date": "2022-03-28",
+    "claim_value": "135.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "8beb360ae4512b6e9c0bbfa5be01b6a6",
+    "icd_code": "R197",
+    "claim_date": "2022-02-28",
+    "claim_value": "104.0",
+    "claim_provider": "1457378002"
+  },
+  {
+    "id": "76fb4e48cac131356c2f7dda5523685d",
+    "icd_code": "R0602",
+    "claim_date": "2022-01-27",
+    "claim_value": "158.97",
+    "claim_provider": "1285044990"
+  }
+]

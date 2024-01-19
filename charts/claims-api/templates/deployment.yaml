@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "claims-api.fullname" . }}
+  labels:
+    app: {{ include "claims-api.name" . }}
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      app: {{ include "claims-api.name" . }}
+  template:
+    metadata:
+      labels:
+        app: {{ include "claims-api.name" . }}
+    spec:
+      containers:
+        - name: {{ .Chart.Name }}
+          image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+          imagePullPolicy: {{ .Values.image.pullPolicy }}
+          ports:
+            - name: http
+              containerPort: {{ .Values.claimsApiPort }}
+          volumeMounts:
+            - name: data-sources
+              mountPath: {{ .Values.mountPaths.dataSources }}
+            - name: keys-volume
+              mountPath: /keys
+      volumes:
+        - name: data-sources
+          emptyDir: {}
+        - name: keys-volume
+          emptyDir: {}
+
+---
+# Add other resources such as service, ingress, etc.
+

@@ -13,7 +13,7 @@ COPY keys/jwt_key /var/secrets/jwt_key
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose the port the app runs on
-EXPOSE 8080
+EXPOSE 4000
 
 # Specify the volume for data stored in /opt/claims-api/
 VOLUME ["/opt/claims-api"]
